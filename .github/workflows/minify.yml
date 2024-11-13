@@ -77,3 +77,8 @@ jobs:
                   git add list/*.dat
                   git commit -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
                   git push
+
+            - name: Trigger Coolify Webhook
+              if: ${{ env.changed == 'true' }}
+              run: |
+                  curl -X POST "${{ secrets.WEBHOOK_URL }}" -H "Authorization: Bearer ${{ secrets.COOLIFY_API_KEY }}""
