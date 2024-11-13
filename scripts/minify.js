@@ -44,7 +44,7 @@ fs.readFile(file, "utf8", (err, data) => {
         if (writeErr) {
             console.error("Error writing the file:", writeErr);
         } else {
-            console.log(`${((data.length - minifiedData.length / data.length) * 100).toFixed(2)}%`);
+            console.log(`${(((data.length - minifiedData.length) / data.length) * 100).toFixed(2)}%`);
         }
     });
 });
