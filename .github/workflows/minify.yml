@@ -24,10 +24,27 @@ jobs:
               with:
                   node-version: 20.x
 
+            - run: mkdir -p list
+
+            - name: Store the old file
+              run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old || true
+
             - name: Download public_suffix_list.dat
-              run: curl -o public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
+              run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
+
+            - name: Check if the file has changed
+              id: file_changed
+              run: |
+                  if ! cmp -s list/public_suffix_list.dat list/public_suffix_list.dat.old; then
+                      echo "File has changed"
+                      echo "::set-output name=changed::true"
+                  else
+                      echo "File has not changed"
+                      echo "::set-output name=changed::false"
+                  fi
 
             - name: Minify PSL
+              if: steps.file_changed.outputs.changed == 'true'
               id: minify_psl
               run: |
                   OUTPUT=$(node scripts/minify.js)
@@ -35,6 +52,7 @@ jobs:
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
+              if: steps.file_changed.outputs.changed == 'true'
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
