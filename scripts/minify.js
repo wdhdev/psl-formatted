@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const file = "public_suffix_list.dat";
+const file = "list/public_suffix_list.dat";
 
 fs.readFile(file, "utf8", (err, data) => {
     if (err) {
