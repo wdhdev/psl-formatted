@@ -37,8 +37,6 @@ jobs:
                       echo "old_file_exists=false" >> $GITHUB_ENV
                   fi
 
-            - run: echo ${{ env.old_file_exists }}
-
             - name: Backup the old file
               if: ${{ env.old_file_exists == 'true' }}
               run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old
@@ -61,8 +59,6 @@ jobs:
                       echo "Old file does not exist"
                       echo "changed=true" >> $GITHUB_ENV
                   fi
-
-            - run: echo ${{ env.changed }}
 
             - name: Minify PSL
               if: ${{ env.changed == 'true' }}
