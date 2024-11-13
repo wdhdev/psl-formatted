@@ -27,9 +27,12 @@ jobs:
 
             - run: mkdir -p list
 
-            - name: Check if the old file exists
+            - name: Download public_suffix_list.dat
+              run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
+
+            - name: Check if the old minified file exists
               run: |
-                  if [ -f list/public_suffix_list.dat ]; then
+                  if [ -f list/public_suffix_list.min.dat ]; then
                       echo "Old file exists"
                       echo "old_file_exists=true" >> $GITHUB_ENV
                   else
@@ -37,17 +40,20 @@ jobs:
                       echo "old_file_exists=false" >> $GITHUB_ENV
                   fi
 
-            - name: Backup the old file
+            - name: Backup the old minified file
               if: ${{ env.old_file_exists == 'true' }}
-              run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old
+              run: cp list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old
 
-            - name: Download public_suffix_list.dat
-              run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
+            - name: Minify public_suffix_list.dat
+              run: |
+                  OUTPUT=$(node scripts/minify.js)
+                  echo "${OUTPUT}"
+                  echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Check if the file has changed
               run: |
-                  if [ -f list/public_suffix_list.dat.old ]; then
-                      git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
+                  if [ -f list/public_suffix_list.min.dat.old ]; then
+                      git diff --exit-code list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old
                       if [ $? -eq 0 ]; then
                           echo "No changes in the file"
                           echo "changed=false" >> $GITHUB_ENV
@@ -59,13 +65,6 @@ jobs:
                       echo "Old file does not exist"
                       echo "changed=true" >> $GITHUB_ENV
                   fi
-
-            - name: Minify PSL
-              if: ${{ env.changed == 'true' }}
-              run: |
-                  OUTPUT=$(node scripts/minify.js)
-                  echo "${OUTPUT}"
-                  echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
               if: ${{ env.changed == 'true' }}
