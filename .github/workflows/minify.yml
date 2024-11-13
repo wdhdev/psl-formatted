@@ -35,12 +35,10 @@ jobs:
             - name: Check if the file has changed
               id: file_changed
               run: |
-                  if ! cmp -s list/public_suffix_list.dat list/public_suffix_list.dat.old; then
-                      echo "File has changed"
-                      echo "::set-output name=changed::true"
+                  if cmp -s list/public_suffix_list.dat list/public_suffix_list.dat.old; then
+                      echo "changed=false" >> $GITHUB_ENV
                   else
-                      echo "File has not changed"
-                      echo "::set-output name=changed::false"
+                      echo "changed=true" >> $GITHUB_ENV
                   fi
 
             - name: Minify PSL
