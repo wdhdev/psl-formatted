@@ -81,4 +81,4 @@ jobs:
             - name: Trigger Coolify Webhook
               if: ${{ env.changed == 'true' }}
               run: |
-                  curl -X POST "${{ secrets.WEBHOOK_URL }}" -H "Authorization: Bearer ${{ secrets.COOLIFY_API_KEY }}""
+                  curl -X POST "${{ secrets.WEBHOOK_URL }}" -H "Authorization: Bearer ${{ secrets.COOLIFY_API_KEY }}"
