@@ -7,4 +7,4 @@ A project with the goal of minifying the PSL for projects that want a smaller co
 > We do not modify the PSL in any way, we simply remove the comments from the original file. You can see the minifying script [here](scripts/minify.js).
 
 ## Pulling the file
-You can pull the file from https://psl-min.hrsn.dev/list/public_suffix_list.min.dat
+You can pull the file from [https://psl-min.hrsn.dev/list/public_suffix_list.min.dat](https://psl-min.hrsn.dev/list/public_suffix_list.min.dat)
