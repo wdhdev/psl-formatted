@@ -31,14 +31,14 @@ jobs:
               run: |
                   if [ -f list/public_suffix_list.dat ]; then
                       echo "Old file exists"
-                      echo "old_file_exists=true" >> $GITHUB_ENV
+                      echo "old_file_exists=yes" >> $GITHUB_ENV
                   else
                       echo "Old file does not exist"
-                      echo "old_file_exists=false" >> $GITHUB_ENV
+                      echo "old_file_exists=no" >> $GITHUB_ENV
                   fi
 
             - name: Backup the old file
-              if: ${{ env.old_file_exists }} == 'true'
+              if: ${{ env.old_file_exists }} == 'yes'
               run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old
 
             - name: Download public_suffix_list.dat
@@ -50,25 +50,25 @@ jobs:
                       git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
                       if [ $? -eq 0 ]; then
                           echo "No changes in the file"
-                          echo "changed=false" >> $GITHUB_ENV
+                          echo "changed=no" >> $GITHUB_ENV
                       else
                           echo "Changes detected in the file"
-                          echo "changed=true" >> $GITHUB_ENV
+                          echo "changed=yes" >> $GITHUB_ENV
                       fi
                   else
                       echo "Old file does not exist"
-                      echo "changed=true" >> $GITHUB_ENV
+                      echo "changed=yes" >> $GITHUB_ENV
                   fi
 
             - name: Minify PSL
-              if: ${{ env.changed }} == 'true'
+              if: ${{ env.changed }} == 'yes'
               run: |
                   OUTPUT=$(node scripts/minify.js)
                   echo "${OUTPUT}"
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
-              if: ${{ env.changed }} == 'true'
+              if: ${{ env.changed }} == 'yes'
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
