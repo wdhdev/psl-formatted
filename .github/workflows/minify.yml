@@ -59,7 +59,7 @@ jobs:
                   fi
 
             - name: Minify PSL
-              if: steps.file_changed.outputs.changed == 'true'
+              if: steps.old_file_exists.outputs.old_file_exists == 'false' || steps.file_changed.outputs.changed == 'true'
               id: minify_psl
               run: |
                   OUTPUT=$(node scripts/minify.js)
@@ -67,7 +67,7 @@ jobs:
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
-              if: steps.file_changed.outputs.changed == 'true'
+              if: steps.old_file_exists.outputs.old_file_exists == 'false' || steps.file_changed.outputs.changed == 'true'
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
