@@ -4,6 +4,7 @@ on:
     push:
         branches: [main]
         paths:
+            - "list/*"
             - "scripts/*"
             - ".github/workflows/minify.yml"
 
@@ -56,6 +57,6 @@ jobs:
               run: |
                   git config --global user.name "GitHub Actions"
                   git config --global user.email "actions@github.com"
-                  git add list/public_suffix_list.min.dat
+                  git add list/*.dat
                   git commit -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
                   git push
