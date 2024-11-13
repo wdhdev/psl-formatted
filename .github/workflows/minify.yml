@@ -27,13 +27,26 @@ jobs:
 
             - run: mkdir -p list
 
-            - name: Store the old file
-              run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old || true
+            - name: Check if the old file exists
+              id: old_file_exists
+              run: |
+                  if [ -f list/public_suffix_list.dat ]; then
+                      echo "Old file exists"
+                      echo "old_file_exists=true" >> $GITHUB_ENV
+                  else
+                      echo "Old file does not exist"
+                      echo "old_file_exists=false" >> $GITHUB_ENV
+                  fi
+
+            - name: Backup the old file
+              if: steps.old_file_exists.outputs.old_file_exists == 'true'
+              run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old
 
             - name: Download public_suffix_list.dat
               run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
 
             - name: Check if the file has changed
+              if: steps.old_file_exists.outputs.old_file_exists == 'true'
               id: file_changed
               run: |
                   git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
