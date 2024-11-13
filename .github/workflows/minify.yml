@@ -46,20 +46,25 @@ jobs:
               run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
 
             - name: Check if the file has changed
-              if: steps.old_file_exists.outputs.old_file_exists == 'true'
               id: file_changed
               run: |
-                  git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
-                  if [ $? -eq 0 ]; then
-                      echo "No changes in the file"
-                      echo "changed=false" >> $GITHUB_ENV
+                  if [ -f list/public_suffix_list.dat.old ]; then
+                      git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
+                      if [ $? -eq 0 ]; then
+                          echo "No changes in the file"
+                          echo "changed=false" >> $GITHUB_ENV
+                      else
+                          echo "Changes detected in the file"
+                          echo "changed=true" >> $GITHUB_ENV
+                      fi
                   else
-                      echo "Changes detected in the file"
+                      echo "Old file does not exist"
                       echo "changed=true" >> $GITHUB_ENV
                   fi
 
+
             - name: Minify PSL
-              if: steps.old_file_exists.outputs.old_file_exists == 'false' || steps.file_changed.outputs.changed == 'true'
+              if: steps.file_changed.outputs.changed == 'true'
               id: minify_psl
               run: |
                   OUTPUT=$(node scripts/minify.js)
@@ -67,7 +72,7 @@ jobs:
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
-              if: steps.old_file_exists.outputs.old_file_exists == 'false' || steps.file_changed.outputs.changed == 'true'
+              if: steps.file_changed.outputs.changed == 'true'
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
