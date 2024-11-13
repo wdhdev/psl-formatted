@@ -40,7 +40,7 @@ jobs:
             - run: echo ${{ env.old_file_exists }}
 
             - name: Backup the old file
-              if: ${{ env.old_file_exists }} == 'true'
+              if: ${{ env.old_file_exists }} === 'true'
               run: cp list/public_suffix_list.dat list/public_suffix_list.dat.old
 
             - name: Download public_suffix_list.dat
@@ -65,14 +65,14 @@ jobs:
             - run: echo ${{ env.changed }}
 
             - name: Minify PSL
-              if: ${{ env.changed }} == 'true'
+              if: ${{ env.changed }} === 'true'
               run: |
                   OUTPUT=$(node scripts/minify.js)
                   echo "${OUTPUT}"
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
-              if: ${{ env.changed }} == 'true'
+              if: ${{ env.changed }} === 'true'
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
