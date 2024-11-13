@@ -1,0 +1,45 @@
+name: Minify
+
+on:
+    push:
+        branches: [main]
+        paths:
+            - "scripts/*"
+            - ".github/workflows/minify.yml"
+
+    schedule:
+        - cron: "0 0 * * *"
+
+    workflow_dispatch:
+
+jobs:
+    psl:
+        name: PSL
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: 20.x
+
+            - name: Download public_suffix_list.dat
+              run: curl -o public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
+
+            - name: Minify PSL
+              id: minify_psl
+              run: |
+                  OUTPUT=$(node scripts/minify.js)
+                  echo "${OUTPUT}"
+                  echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
+
+            - name: Commit
+              env:
+                  MINIFY_PERCENT: ${{ env.minify_percent }}
+              run: |
+                  git config --global user.name "GitHub Actions"
+                  git config --global user.email "actions@github.com"
+                  git add list/public_suffix_list.min.dat
+                  git commit -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
+                  git push
