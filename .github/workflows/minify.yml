@@ -36,9 +36,12 @@ jobs:
             - name: Check if the file has changed
               id: file_changed
               run: |
-                  if cmp -s list/public_suffix_list.dat list/public_suffix_list.dat.old; then
+                  git diff --exit-code list/public_suffix_list.dat list/public_suffix_list.dat.old
+                  if [ $? -eq 0 ]; then
+                      echo "No changes in the file"
                       echo "changed=false" >> $GITHUB_ENV
                   else
+                      echo "Changes detected in the file"
                       echo "changed=true" >> $GITHUB_ENV
                   fi
 
