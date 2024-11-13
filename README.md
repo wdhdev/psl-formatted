@@ -1,5 +1,5 @@
 # PSL Minified
-A minified version of the Public Suffix List for projects that want a smaller copy of the PSL.
+A minified version of the Public Suffix List.
 
 ## Pulling the file
 You can pull the file from [https://psl-min.hrsn.dev/list/public_suffix_list.min.dat](https://psl-min.hrsn.dev/list/public_suffix_list.min.dat).
