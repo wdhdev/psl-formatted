@@ -37,7 +37,6 @@ jobs:
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
             - name: Commit
-              if: ${{ env.changed == 'true' }}
               env:
                   MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
@@ -48,6 +47,5 @@ jobs:
                   git push
 
             - name: Trigger Coolify Webhook
-              if: ${{ env.changed == 'true' }}
               run: |
                   curl -X POST "${{ secrets.WEBHOOK_URL }}" -H "Authorization: Bearer ${{ secrets.COOLIFY_API_KEY }}"
