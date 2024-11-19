@@ -53,7 +53,7 @@ jobs:
             - name: Check if the file has changed
               run: |
                   if [ -f list/public_suffix_list.min.dat.old ]; then
-                      if git diff --quiet list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old; then
+                      if git diff list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old; then
                           echo "No changes in the file"
                           echo "changed=false" >> $GITHUB_ENV
                       else
