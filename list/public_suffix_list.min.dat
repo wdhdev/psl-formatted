@@ -1,5 +1,5 @@
-// VERSION: 2024-11-12_14-53-17_UTC
-// COMMIT: c5a2c693abe0851e2aad80062f9ef654c05372ca
+// VERSION: 2024-11-18_15-30-55_UTC
+// COMMIT: b00d15ea62059a24d57cac96740c98dcb80b6edc
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -9,7 +9,6 @@ net.ac
 mil.ac
 org.ac
 ad
-nom.ad
 ae
 co.ae
 net.ae
@@ -188,7 +187,6 @@ edu.au
 gov.au
 asn.au
 id.au
-info.au
 conf.au
 oz.au
 act.au
@@ -1126,12 +1124,6 @@ sch.ir
 ایران.ir
 ايران.ir
 is
-net.is
-com.is
-edu.is
-gov.is
-org.is
-int.is
 it
 gov.it
 edu.it
@@ -8695,6 +8687,8 @@ heliohost.us
 hepforge.org
 herokuapp.com
 herokussl.com
+heyflow.page
+heyflow.site
 ravendb.cloud
 ravendb.community
 development.run
