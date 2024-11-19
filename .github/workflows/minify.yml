@@ -50,6 +50,8 @@ jobs:
                   echo "${OUTPUT}"
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
 
+            - run: git diff list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old || true
+
             - name: Check if the file has changed
               run: |
                   if [ -f list/public_suffix_list.min.dat.old ]; then
