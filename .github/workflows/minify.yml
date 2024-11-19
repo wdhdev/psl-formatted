@@ -30,44 +30,11 @@ jobs:
             - name: Download public_suffix_list.dat
               run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
 
-            - name: Check if the old minified file exists
-              run: |
-                  if [ -f list/public_suffix_list.min.dat ]; then
-                      echo "Old file exists"
-                      echo "old_file_exists=true" >> $GITHUB_ENV
-                  else
-                      echo "Old file does not exist"
-                      echo "old_file_exists=false" >> $GITHUB_ENV
-                  fi
-
-            - name: Backup the old minified file
-              if: ${{ env.old_file_exists == 'true' }}
-              run: cp list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old
-
             - name: Minify public_suffix_list.dat
               run: |
                   OUTPUT=$(node scripts/minify.js)
                   echo "${OUTPUT}"
                   echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
-
-            - run: git diff list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old || true
-
-            - name: Check if the file has changed
-              run: |
-                  if [ -f list/public_suffix_list.min.dat.old ]; then
-                      DIFF=$(git diff list/public_suffix_list.min.dat list/public_suffix_list.min.dat.old || true)
-
-                      if [ -n "$DIFF" ]; then
-                          echo "No changes in the file"
-                          echo "changed=false" >> $GITHUB_ENV
-                      else
-                          echo "Changes detected in the file"
-                          echo "changed=true" >> $GITHUB_ENV
-                      fi
-                  else
-                      echo "Old file does not exist"
-                      echo "changed=true" >> $GITHUB_ENV
-                  fi
 
             - name: Commit
               if: ${{ env.changed == 'true' }}
@@ -77,7 +44,7 @@ jobs:
                   git config --global user.name "GitHub Actions"
                   git config --global user.email "actions@github.com"
                   git add list/public_suffix_list.min.dat
-                  git commit -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
+                  git commit --allow-empty -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
                   git push
 
             - name: Trigger Coolify Webhook
