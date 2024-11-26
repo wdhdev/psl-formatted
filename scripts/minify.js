@@ -21,14 +21,8 @@ fs.readFile(file, "utf8", (err, data) => {
     const minifiedData = data
         .split("\n")
         .map((line) => {
-            if (requiredComments.some((comment) => line.startsWith(comment))) {
-                return line;
-            }
-
-            if (startsWithComments.some((comment) => line.startsWith(comment))) {
-                return line;
-            }
-
+            if (requiredComments.some((comment) => line.startsWith(comment))) return line;
+            if (startsWithComments.some((comment) => line.startsWith(comment))) return line;
             return line.replace(/\/\/.*/, "").trim();
         })
         .filter((line) => line.length > 0)
