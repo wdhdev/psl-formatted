@@ -1,5 +1,5 @@
-// VERSION: 2024-12-11_09-51-13_UTC
-// COMMIT: 77a1948db10ae4225281856933eb5317463c9377
+// VERSION: 2024-12-10_11-50-09_UTC
+// COMMIT: 2a0b5bec9e4b5b02ecbbe18224d41e56d1fd1766
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -6875,13 +6875,10 @@ ltd.ua
 611.to
 a2hosted.com
 cpserver.com
+aaa.vodka
 *.on-acorn.io
 activetrail.biz
 adaptable.app
-myaddr.dev
-myaddr.io
-dyn.addr.tools
-myaddr.tools
 adobeaemcloud.com
 *.dev.adobeaemcloud.com
 aem.live
@@ -8675,6 +8672,7 @@ helioho.st
 heliohost.us
 hepforge.org
 herokuapp.com
+herokussl.com
 heyflow.page
 heyflow.site
 ravendb.cloud
