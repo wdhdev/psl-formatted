@@ -67,8 +67,6 @@ fs.readFile(file, "utf8", (err, data) => {
     fs.writeFile(jsonFilePath, JSON.stringify(jsonOutput, null, 4), "utf8", (writeErr) => {
         if (writeErr) {
             console.error("Error writing JSON file:", writeErr);
-        } else {
-            console.log("JSON file written successfully:", jsonFilePath);
         }
     });
 });
