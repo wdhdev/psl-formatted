@@ -1,16 +1,16 @@
-# PSL Minified
-A minified version of the Public Suffix List.
+# PSL: Formatted
+A project with the aim of providing the Public Suffix List in different formats.
 
-## Pulling the file
-You can pull the minified version of the PSL from: [psl.hrsn.dev/public_suffix_list.min.dat](https://psl.hrsn.dev/public_suffix_list.min.dat)
+## Pulling the formatted files
+You can pull the formatted versions of the PSL from: [psl.hrsn.dev](https://psl.hrsn.dev), simply select the format you want and the copy the URL!
 
 ## FAQ
-### How can I trust the minified version of the PSL?
-We are fully open-source. You can see the minifying script [here](https://github.com/wdhdev/psl-min/blob/main/scripts/minify.js) and the Docker image we use for deploying the web server [here](https://github.com/wdhdev/docker-images/tree/main/psl-nginx).
+### How can I trust the formatted versions of the PSL?
+We are fully open-source. You can see the different formatting scripts [here](https://github.com/wdhdev/psl-min/tree/main/scripts) and the Docker image we use for deploying the web server [here](https://github.com/wdhdev/psl-formatted/blob/main/Dockerfile), as well as the NGINX config [here](https://github.com/wdhdev/psl-formatted/blob/main/nginx.conf).
 
-### How often is the minified version updated?
-It is automatically updated every 24 hours and is deployed to the server using the Docker image [william/psl-nginx](https://github.com/wdhdev/docker-images/tree/main/psl-nginx).
+### How often are the formatted versions updated?
+All formats are automatically updated every 24 hours via GitHub Actions and are automatically deployed to `psl.hrsn.dev`.
 
 ---
 
-*This project is NOT associated with the [Public Suffix List](https://publicsuffix.org) project. It is a community-run project.*
+*This project is NOT associated nor endorsed by the [Public Suffix List](https://publicsuffix.org) project.*

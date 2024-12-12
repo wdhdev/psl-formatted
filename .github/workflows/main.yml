@@ -1,4 +1,4 @@
-name: Minify
+name: PSL
 
 on:
     push:
@@ -6,7 +6,7 @@ on:
         paths:
             - "list/*"
             - "scripts/*"
-            - ".github/workflows/minify.yml"
+            - ".github/workflows/main.yml"
 
     schedule:
         - cron: "0 0 * * *"
@@ -14,8 +14,8 @@ on:
     workflow_dispatch:
 
 jobs:
-    psl:
-        name: PSL
+    convert:
+        name: Convert
         runs-on: ubuntu-latest
 
         steps:
@@ -30,22 +30,19 @@ jobs:
             - name: Download public_suffix_list.dat
               run: curl -o list/public_suffix_list.dat https://publicsuffix.org/list/public_suffix_list.dat
 
+            - name: Convert public_suffix_list.dat to JSON
+              run: node scripts/json.js
+
             - name: Minify public_suffix_list.dat
-              run: |
-                  OUTPUT=$(node scripts/minify.js)
-                  echo "${OUTPUT}"
-                  echo "minify_percent=${OUTPUT}" >> $GITHUB_ENV
+              run: node scripts/minify.js
+
+            - run: rm list/public_suffix_list.dat
 
             - name: Commit
-              env:
-                  MINIFY_PERCENT: ${{ env.minify_percent }}
               run: |
                   git config --global user.name "GitHub Actions"
                   git config --global user.email "actions@github.com"
-                  git add list/public_suffix_list.min.dat
-                  git commit --allow-empty -m "chore: minify PSL (saved ${MINIFY_PERCENT})"
+                  git add list/*
+                  git pull --rebase
+                  git commit --allow-empty -m "chore: convert PSL to different formats"
                   git push
-
-            - name: Trigger Coolify Webhook
-              run: |
-                  curl -X POST "${{ secrets.WEBHOOK_URL }}" -H "Authorization: Bearer ${{ secrets.COOLIFY_API_KEY }}"
