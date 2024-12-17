@@ -1,6 +1,6 @@
 {
-    "VERSION": "2024-12-12_15-28-46_UTC",
-    "COMMIT": "54119e116bb0dc5be5b1c0f4218eaa057db17d92",
+    "VERSION": "2024-12-16_17-50-21_UTC",
+    "COMMIT": "0f742fa58b243545e644a3336d50e091b2e73dc9",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8618,7 +8618,6 @@
         "*.kin.one",
         "*.id.pub",
         "*.kin.pub",
-        "secaas.hk",
         "hoplix.shop",
         "orx.biz",
         "biz.gl",
@@ -9089,8 +9088,6 @@
         "notion.site",
         "dnsking.ch",
         "mypi.co",
-        "n4t.co",
-        "001www.com",
         "myiphost.com",
         "forumz.info",
         "soundcast.me",
@@ -9103,7 +9100,6 @@
         "dynserv.org",
         "now-dns.org",
         "x443.pw",
-        "now-dns.top",
         "ntdll.top",
         "freeddns.us",
         "nsupdate.info",
