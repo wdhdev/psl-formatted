@@ -2,7 +2,7 @@
 A project with the aim of providing the Public Suffix List in different formats.
 
 ## Pulling the formatted files
-You can pull the formatted versions of the PSL from: [psl.hrsn.dev](https://psl.hrsn.dev), simply select the format you want and the copy the URL!
+You can pull the formatted versions of the PSL from [**psl.hrsn.dev**](https://psl.hrsn.dev), simply select the format you want and the copy the URL!
 
 ## FAQ
 ### How can I trust the formatted versions of the PSL?
@@ -13,4 +13,4 @@ All formats are automatically updated every 24 hours via GitHub Actions and are 
 
 ---
 
-*This project is NOT associated nor endorsed by the [Public Suffix List](https://publicsuffix.org) project.*
+*This is a 3rd party project, which is NOT endorsed by the [Public Suffix List](https://publicsuffix.org) project.*
