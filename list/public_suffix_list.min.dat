@@ -1,5 +1,5 @@
-// VERSION: 2025-01-05_09-17-33_UTC
-// COMMIT: 397a13cba5672b1b4eb847995fc91e03fc3893e1
+// VERSION: 2025-01-07_13-30-29_UTC
+// COMMIT: 17440f51f53e1fb0e53f1d843dceb235a25893cf
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7776,6 +7776,7 @@ wpdevcloud.com
 cloudaccess.host
 freesite.host
 cloudaccess.net
+cloudbeesusercontent.io
 *.cloudera.site
 cf-ipfs.com
 cloudflare-ipfs.com
@@ -9191,6 +9192,11 @@ prequalifyme.today
 xen.prgmr.com
 priv.at
 protonet.io
+sub.psl.hrsn.dev
+*.wc.psl.hrsn.dev
+!ignored.wc.psl.hrsn.dev
+*.sub.wc.psl.hrsn.dev
+!ignored.sub.wc.psl.hrsn.dev
 chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
