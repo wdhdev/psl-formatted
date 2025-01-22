@@ -1,5 +1,5 @@
-// VERSION: 2025-01-16_09-12-01_UTC
-// COMMIT: 4f2d3b20034a6c7a0ad4400716f1e0f752e2c737
+// VERSION: 2025-01-21_09-07-06_UTC
+// COMMIT: 47264b57765919188b9f4144de8d95cf77e1b6dc
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -3574,12 +3574,18 @@ name.mk
 net.mk
 org.mk
 ml
+ac.ml
+art.ml
+asso.ml
 com.ml
 edu.ml
 gouv.ml
 gov.ml
+info.ml
+inst.ml
 net.ml
 org.ml
+pr.ml
 presse.ml
 *.mm
 mn
