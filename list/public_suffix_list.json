@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-01-31_07-02-21_UTC",
-    "COMMIT": "5421ee732b6ad9733220267cd8d3d6b45a63ce05",
+    "VERSION": "2025-02-06_11-55-25_UTC",
+    "COMMIT": "9b2b111ecac3039f8a2877d72eb37e71cf505da4",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6932,6 +6932,7 @@
         "barsy.ca",
         "*.compute.estate",
         "*.alces.network",
+        "alibabacloudcs.com",
         "kasserver.com",
         "altervista.org",
         "alwaysdata.net",
