@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-02-06_11-55-25_UTC",
-    "COMMIT": "9b2b111ecac3039f8a2877d72eb37e71cf505da4",
+    "VERSION": "2025-02-10_13-35-35_UTC",
+    "COMMIT": "58ffb9210ce88ad70bf4ab5f7f16066a2b6932e8",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8824,6 +8824,7 @@
         "webthings.io",
         "krellian.net",
         "oya.to",
+        "laravel.cloud",
         "git-repos.de",
         "lcube-server.de",
         "svn-repos.de",
