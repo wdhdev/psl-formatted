@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-02-24_18-31-22_UTC",
-    "COMMIT": "a9b0226059e71094e4aa36fb8b6e22c4d381c0d3",
+    "VERSION": "2025-02-27_07-53-30_UTC",
+    "COMMIT": "23f7ef2b96a01338ac761a395aa5d37572850567",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9733,9 +9733,11 @@
         "za.org",
         "zap.cloud",
         "zeabur.app",
+        "*.zerops.app",
         "bss.design",
         "basicserver.io",
         "virtualserver.io",
-        "enterprisecloud.nu"
+        "enterprisecloud.nu",
+        "zone.id"
     ]
 }
