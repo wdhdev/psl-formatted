@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-02-27_07-53-30_UTC",
-    "COMMIT": "23f7ef2b96a01338ac761a395aa5d37572850567",
+    "VERSION": "2025-02-28_19-18-50_UTC",
+    "COMMIT": "9020852e6fadfeb0ea31f73486ede566de9b3093",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6258,7 +6258,6 @@
         "kaufen",
         "kddi",
         "kerryhotels",
-        "kerrylogistics",
         "kerryproperties",
         "kfh",
         "kia",
@@ -6308,7 +6307,6 @@
         "limo",
         "lincoln",
         "link",
-        "lipsy",
         "live",
         "living",
         "llc",
@@ -9686,6 +9684,7 @@
         "wp2.host",
         "pdns.page",
         "plesk.page",
+        "cpanel.site",
         "wpsquared.site",
         "*.wadl.top",
         "remotewd.com",
