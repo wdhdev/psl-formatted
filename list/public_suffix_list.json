@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-03-12_16-37-49_UTC",
-    "COMMIT": "b85018227bf5620427fc719c80fd652d52fd945f",
+    "VERSION": "2025-03-14_13-41-20_UTC",
+    "COMMIT": "aa7c5d89f72eec0d8ed0a13d14792a338bbedf91",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8727,7 +8727,9 @@
         "websitebuilder.online",
         "app-ionos.space",
         "iopsys.se",
+        "*.inbrowser.dev",
         "*.dweb.link",
+        "*.inbrowser.link",
         "ipifony.net",
         "ir.md",
         "is-a-good.dev",
@@ -9232,6 +9234,8 @@
         "prequalifyme.today",
         "xen.prgmr.com",
         "priv.at",
+        "c01.kr",
+        "eliv-dns.kr",
         "protonet.io",
         "sub.psl.hrsn.dev",
         "*.wc.psl.hrsn.dev",
