@@ -1,5 +1,5 @@
-// VERSION: 2025-03-14_13-41-20_UTC
-// COMMIT: aa7c5d89f72eec0d8ed0a13d14792a338bbedf91
+// VERSION: 2025-03-17_16-53-05_UTC
+// COMMIT: 32eb47d07246e98122c64c866ce0a33f09fc49ff
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7833,6 +7833,8 @@ csb.app
 preview.csb.app
 co.nl
 co.no
+devinapps.com
+staging.devinapps.com
 webhosting.be
 hosting-cluster.nl
 ctfcloud.net
@@ -7899,6 +7901,7 @@ you2.pl
 ondigitalocean.app
 *.digitaloceanspaces.com
 us.kg
+dpdns.org
 discordsays.com
 discordsez.com
 jozi.biz
