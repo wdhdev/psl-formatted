@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-03-17_16-53-05_UTC",
-    "COMMIT": "32eb47d07246e98122c64c866ce0a33f09fc49ff",
+    "VERSION": "2025-03-18_07-22-26_UTC",
+    "COMMIT": "2c960dac3d39ba521eb5db9da192968f5be0aded",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9680,7 +9680,6 @@
         "vusercontent.net",
         "now.sh",
         "2038.io",
-        "router.management",
         "v-info.info",
         "deus-canvas.com",
         "voorloper.cloud",
