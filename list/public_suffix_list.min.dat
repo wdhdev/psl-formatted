@@ -1,5 +1,5 @@
-// VERSION: 2025-03-18_07-22-26_UTC
-// COMMIT: 2c960dac3d39ba521eb5db9da192968f5be0aded
+// VERSION: 2025-03-28_19-52-32_UTC
+// COMMIT: b39e35ef3835c5db7aaf311c179fc1f6d92b92d5
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7542,6 +7542,8 @@ analytics-gateway.eu-west-1.amazonaws.com
 analytics-gateway.us-east-1.amazonaws.com
 analytics-gateway.us-east-2.amazonaws.com
 analytics-gateway.us-west-2.amazonaws.com
+appwrite.global
+*.appwrite.run
 amplifyapp.com
 *.awsapprunner.com
 webview-assets.aws-cloud9.af-south-1.amazonaws.com
@@ -9536,6 +9538,8 @@ quizzes.cx
 researched.cx
 tests.cx
 surveys.so
+ipfs.storacha.link
+ipfs.w3s.link
 storebase.store
 storipress.app
 storj.farm
