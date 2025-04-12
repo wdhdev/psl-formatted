@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-04-07_15-51-09_UTC",
-    "COMMIT": "5fc8d12c1624ddbc56a80e944aca151a8ee466a1",
+    "VERSION": "2025-04-10_15-11-05_UTC",
+    "COMMIT": "1daef550aab77e1a43d67abd7de78cafa1110468",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6986,6 +6986,7 @@
         "auth.ap-southeast-2.amazoncognito.com",
         "auth.ap-southeast-3.amazoncognito.com",
         "auth.ap-southeast-4.amazoncognito.com",
+        "auth.ap-southeast-5.amazoncognito.com",
         "auth.ca-central-1.amazoncognito.com",
         "auth.ca-west-1.amazoncognito.com",
         "auth.eu-central-1.amazoncognito.com",
@@ -7004,6 +7005,7 @@
         "auth-fips.us-east-1.amazoncognito.com",
         "auth.us-east-2.amazoncognito.com",
         "auth-fips.us-east-2.amazoncognito.com",
+        "auth-fips.us-gov-east-1.amazoncognito.com",
         "auth-fips.us-gov-west-1.amazoncognito.com",
         "auth.us-west-1.amazoncognito.com",
         "auth-fips.us-west-1.amazoncognito.com",
@@ -8403,6 +8405,7 @@
         "app.os.stg.fedoraproject.org",
         "mydobiss.com",
         "fh-muenster.io",
+        "figma.site",
         "filegear.me",
         "firebaseapp.com",
         "fldrv.com",
