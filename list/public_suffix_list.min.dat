@@ -1,5 +1,5 @@
-// VERSION: 2025-04-10_15-11-05_UTC
-// COMMIT: 1daef550aab77e1a43d67abd7de78cafa1110468
+// VERSION: 2025-04-11_07-34-31_UTC
+// COMMIT: 54ed390e7c41b363942c07a19b8d456d4ca6aa13
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -160,6 +160,7 @@ musica.ar
 mutual.ar
 net.ar
 org.ar
+seg.ar
 senasa.ar
 tur.ar
 arpa
@@ -7837,11 +7838,12 @@ csb.app
 preview.csb.app
 co.nl
 co.no
-devinapps.com
-staging.devinapps.com
+*.devinapps.com
 webhosting.be
 hosting-cluster.nl
 ctfcloud.net
+convex.app
+convex.cloud
 convex.site
 ac.ru
 edu.ru
@@ -8415,6 +8417,7 @@ shw.io
 edgeapp.net
 forgeblocks.com
 id.forgerock.io
+e2b.app
 framer.ai
 framer.app
 framercanvas.com
