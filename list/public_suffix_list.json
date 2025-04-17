@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-04-11_07-34-31_UTC",
-    "COMMIT": "54ed390e7c41b363942c07a19b8d456d4ca6aa13",
+    "VERSION": "2025-04-15_21-29-38_UTC",
+    "COMMIT": "b1d38256593253c7b333958910661e16234565cb",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8665,7 +8665,6 @@
         "ltd.ng",
         "ngo.ng",
         "plc.ng",
-        "ie.ua",
         "hostyhosting.io",
         "hf.space",
         "static.hf.space",
