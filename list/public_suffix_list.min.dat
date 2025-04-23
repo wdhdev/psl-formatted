@@ -1,5 +1,5 @@
-// VERSION: 2025-04-15_21-29-38_UTC
-// COMMIT: b1d38256593253c7b333958910661e16234565cb
+// VERSION: 2025-04-22_06-27-00_UTC
+// COMMIT: 6aeba31da00f72ffa035a8f1e4cd1b5c27dfaf01
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7828,6 +7828,8 @@ cdn.cloudflareglobal.net
 cust.cloudscale.ch
 objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
+lpg.objectstorage.ch
+rma.objectstorage.ch
 wnext.app
 cnpy.gdn
 *.otap.co
@@ -8929,6 +8931,8 @@ barsy.support
 barsy.uk
 barsy.co.uk
 barsyonline.co.uk
+luyani.app
+luyani.net
 *.magentosite.cloud
 hb.cldmail.ru
 matlab.cloud
@@ -9680,7 +9684,7 @@ urown.cloud
 dnsupdate.info
 us.org
 v.ua
-express.val.run
+val.run
 web.val.run
 vercel.app
 v0.build
