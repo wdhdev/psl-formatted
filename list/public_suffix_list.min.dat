@@ -1,5 +1,5 @@
-// VERSION: 2025-04-22_06-27-00_UTC
-// COMMIT: 6aeba31da00f72ffa035a8f1e4cd1b5c27dfaf01
+// VERSION: 2025-04-24_08-03-48_UTC
+// COMMIT: 8605b91ddd176ffa4333adc3a6b4b6eece59f3b5
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8238,6 +8238,7 @@ mytuleap.com
 tuleap-partners.com
 encr.app
 encoreapi.com
+lp.dev
 eu.encoway.cloud
 eu.org
 al.eu.org
@@ -8409,6 +8410,7 @@ app.os.stg.fedoraproject.org
 mydobiss.com
 fh-muenster.io
 figma.site
+preview.site
 filegear.me
 firebaseapp.com
 fldrv.com
@@ -9249,6 +9251,9 @@ xen.prgmr.com
 priv.at
 c01.kr
 eliv-dns.kr
+mmv.kr
+vki.kr
+dev.project-study.com
 protonet.io
 sub.psl.hrsn.dev
 *.wc.psl.hrsn.dev
