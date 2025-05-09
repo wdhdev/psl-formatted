@@ -1,5 +1,5 @@
-// VERSION: 2025-05-02_08-05-58_UTC
-// COMMIT: 38015c25a1ecd231d411f599248563da3d64289a
+// VERSION: 2025-05-08_00-52-22_UTC
+// COMMIT: 0c4a8de420882c00af48602dd104adcb4150bbca
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8624,7 +8624,6 @@ grayjayleagues.com
 günstigbestellen.de
 günstigliefern.de
 häkkinen.fi
-hrsn.dev
 hashbang.sh
 hasura.app
 hasura-app.io
@@ -8874,7 +8873,6 @@ filegear-sg.me
 ggff.net
 *.user.localcert.dev
 localcert.net
-localhostcert.net
 localtonet.com
 *.localto.net
 lodz.pl
@@ -9254,11 +9252,6 @@ mmv.kr
 vki.kr
 dev.project-study.com
 protonet.io
-sub.psl.hrsn.dev
-*.wc.psl.hrsn.dev
-!ignored.wc.psl.hrsn.dev
-*.sub.wc.psl.hrsn.dev
-!ignored.sub.wc.psl.hrsn.dev
 chirurgiens-dentistes-en-france.fr
 byen.site
 pubtls.org
@@ -9723,6 +9716,7 @@ toolforge.org
 wmcloud.org
 wmflabs.org
 wdh.app
+hrsn.dev
 windsurf.app
 windsurf.build
 panel.gg
