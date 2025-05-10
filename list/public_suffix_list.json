@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-05-08_00-52-22_UTC",
-    "COMMIT": "0c4a8de420882c00af48602dd104adcb4150bbca",
+    "VERSION": "2025-05-08_11-10-59_UTC",
+    "COMMIT": "0f514676eb334e07cddb8551ac824a5e95f10985",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7544,8 +7544,6 @@
         "analytics-gateway.us-east-1.amazonaws.com",
         "analytics-gateway.us-east-2.amazonaws.com",
         "analytics-gateway.us-west-2.amazonaws.com",
-        "appwrite.global",
-        "*.appwrite.run",
         "amplifyapp.com",
         "*.awsapprunner.com",
         "webview-assets.aws-cloud9.af-south-1.amazonaws.com",
@@ -7663,6 +7661,8 @@
         "appspacehosted.com",
         "appspaceusercontent.com",
         "appudo.net",
+        "appwrite.global",
+        "*.appwrite.run",
         "on-aptible.com",
         "f5.si",
         "arvanedge.ir",
