@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-05-21_15-06-04_UTC",
-    "COMMIT": "0ca8eaff2edde9ae0251389a5eee0d806f74d199",
+    "VERSION": "2025-05-22_06-02-01_UTC",
+    "COMMIT": "76b8e30f1913de596c835ac65b2efe5b5fe9eb43",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8796,6 +8796,7 @@
         "schulserver.de",
         "test-iserv.de",
         "iserv.dev",
+        "iserv.host",
         "mel.cloudlets.com.au",
         "cloud.interhostsolutions.be",
         "alp1.ae.flow.ch",
