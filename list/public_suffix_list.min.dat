@@ -1,5 +1,5 @@
-// VERSION: 2025-05-26_11-00-45_UTC
-// COMMIT: 89800dc76a00a48f7b8ad0603e8da8548b6ca97a
+// VERSION: 2025-05-27_18-04-32_UTC
+// COMMIT: ae6d7152aac42d2ad577f980af6ef4317d5828fe
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -1068,6 +1068,7 @@ biz.id
 co.id
 desa.id
 go.id
+kop.id
 mil.id
 my.id
 net.id
@@ -8799,6 +8800,7 @@ is-a-good.dev
 is-a.dev
 iservschule.de
 mein-iserv.de
+schuldock.de
 schulplattform.de
 schulserver.de
 test-iserv.de
