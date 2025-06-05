@@ -1,5 +1,5 @@
-// VERSION: 2025-06-02_07-53-42_UTC
-// COMMIT: c792070bab60deb20e497677bf33e4e198433033
+// VERSION: 2025-06-04_06-21-53_UTC
+// COMMIT: f50ae882e118b57cb241fd377cff99bfc04f31fa
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8985,6 +8985,7 @@ barsy.support
 barsy.uk
 barsy.co.uk
 barsyonline.co.uk
+*.lutrausercontent.com
 luyani.app
 luyani.net
 *.magentosite.cloud
@@ -9744,6 +9745,7 @@ vercel.app
 v0.build
 vercel.dev
 vusercontent.net
+vercel.run
 now.sh
 2038.io
 v-info.info
