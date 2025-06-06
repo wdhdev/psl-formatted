@@ -1,5 +1,5 @@
-// VERSION: 2025-06-04_06-21-53_UTC
-// COMMIT: f50ae882e118b57cb241fd377cff99bfc04f31fa
+// VERSION: 2025-06-05_06-01-38_UTC
+// COMMIT: 71c753e4b9f5beaf5dcf69f7d35eccc265e0c4a0
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8652,6 +8652,7 @@ graphic.design
 goip.de
 *.hosted.app
 *.run.app
+*.mtls.run.app
 web.app
 *.0emm.com
 appspot.com
