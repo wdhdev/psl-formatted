@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-06-05_06-01-38_UTC",
-    "COMMIT": "71c753e4b9f5beaf5dcf69f7d35eccc265e0c4a0",
+    "VERSION": "2025-06-06_18-22-15_UTC",
+    "COMMIT": "8c55c0f59577c2939919834f88d43d03db8fcdae",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8789,6 +8789,7 @@
         "botdash.xyz",
         "apps-1and1.com",
         "live-website.com",
+        "webspace-host.com",
         "apps-1and1.net",
         "websitebuilder.online",
         "app-ionos.space",
