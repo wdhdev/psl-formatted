@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-06-06_18-22-15_UTC",
-    "COMMIT": "8c55c0f59577c2939919834f88d43d03db8fcdae",
+    "VERSION": "2025-06-07_22-01-00_UTC",
+    "COMMIT": "8d4a151ff8b0a401fb03d2fcec16c834cd454523",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6247,6 +6247,7 @@
         "host",
         "hosting",
         "hot",
+        "hotel",
         "hotels",
         "hotmail",
         "house",
