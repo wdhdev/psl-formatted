@@ -1,5 +1,5 @@
-// VERSION: 2025-07-05_07-07-06_UTC
-// COMMIT: 968c2cce548037261cd6b9c41bffc90138ed7e6f
+// VERSION: 2025-07-07_22-08-28_UTC
+// COMMIT: c7c94ecdc6b47b8cdd69f08c9771e1a20c4b516b
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -9247,6 +9247,7 @@ is-not-a.dev
 localplayer.dev
 is-local.org
 opensocial.site
+*.oaiusercontent.com
 opencraft.hosting
 16-b.it
 32-b.it
