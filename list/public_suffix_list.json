@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-07-16_21-41-22_UTC",
-    "COMMIT": "f0e36343e894c3094e4a1f6e88d68496c95ab8c3",
+    "VERSION": "2025-07-18_13-36-23_UTC",
+    "COMMIT": "8aeb90f43d76aacad4688524004f1969793ce133",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9811,7 +9811,6 @@
         "diskstation.org",
         "typedream.app",
         "pro.typeform.com",
-        "*.uberspace.de",
         "uber.space",
         "hk.com",
         "inc.hk",
