@@ -1,5 +1,5 @@
-// VERSION: 2025-08-01_18-47-38_UTC
-// COMMIT: 758d5d610dffb02f3b38e8ee6783cec7def1c150
+// VERSION: 2025-08-08_07-48-13_UTC
+// COMMIT: 9375d3415dea4bfcc974248b676bf0f6e6f2daa8
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8005,9 +8005,6 @@ deno.net
 dedyn.io
 deta.app
 deta.dev
-caffeine.ai
-id.ai
-icp-api.io
 icp0.io
 *.raw.icp0.io
 icp1.io
@@ -8765,13 +8762,14 @@ ravendb.cloud
 ravendb.community
 development.run
 ravendb.run
+hidns.co
+hidns.vip
 homesklep.pl
 *.kin.one
 *.id.pub
 *.kin.pub
 hoplix.shop
 orx.biz
-biz.gl
 biz.ng
 co.biz.ng
 dl.biz.ng
