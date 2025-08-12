@@ -1,5 +1,5 @@
-// VERSION: 2025-08-08_07-48-13_UTC
-// COMMIT: 9375d3415dea4bfcc974248b676bf0f6e6f2daa8
+// VERSION: 2025-08-11_08-16-30_UTC
+// COMMIT: 568a834e835595f125e115cda197ab2ee66cc3db
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8966,6 +8966,8 @@ krellian.net
 oya.to
 co.de
 laravel.cloud
+on-forge.com
+on-vapor.com
 git-repos.de
 lcube-server.de
 svn-repos.de
@@ -9408,6 +9410,7 @@ web.in
 in.net
 myrdbx.io
 site.rb-hosting.io
+up.railway.app
 *.on-rancher.cloud
 *.on-k3s.io
 *.on-rio.io
