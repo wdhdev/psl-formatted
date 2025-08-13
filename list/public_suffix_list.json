@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-08-11_08-16-30_UTC",
-    "COMMIT": "568a834e835595f125e115cda197ab2ee66cc3db",
+    "VERSION": "2025-08-12_12-43-47_UTC",
+    "COMMIT": "0dc563d009443d96627fae0441ec15fab9b4435d",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9741,6 +9741,8 @@
         "mytabit.co.il",
         "tabitorder.co.il",
         "taifun-dns.de",
+        "erp.dev",
+        "web.erp.dev",
         "ts.net",
         "*.c.ts.net",
         "gda.pl",
