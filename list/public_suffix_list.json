@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-08-12_12-43-47_UTC",
-    "COMMIT": "0dc563d009443d96627fae0441ec15fab9b4435d",
+    "VERSION": "2025-08-12_20-26-21_UTC",
+    "COMMIT": "6a3664b3f552dc784849af7f12d3a248bbae2647",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9398,6 +9398,8 @@
         "qoto.io",
         "qualifioapp.com",
         "ladesk.com",
+        "*.qualyhqpartner.com",
+        "*.qualyhqportal.com",
         "qbuser.com",
         "*.quipelements.com",
         "vapor.cloud",
