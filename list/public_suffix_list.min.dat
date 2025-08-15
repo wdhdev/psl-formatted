@@ -1,5 +1,5 @@
-// VERSION: 2025-08-12_20-26-21_UTC
-// COMMIT: 6a3664b3f552dc784849af7f12d3a248bbae2647
+// VERSION: 2025-08-13_09-07-09_UTC
+// COMMIT: 2d435aebd8a70c0c77891e48516dc97cd7d28b1f
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8009,6 +8009,7 @@ icp0.io
 *.raw.icp0.io
 icp1.io
 *.raw.icp1.io
+*.icp.net
 caffeine.site
 dfirma.pl
 dkonto.pl
@@ -9924,4 +9925,5 @@ basicserver.io
 virtualserver.io
 enterprisecloud.nu
 zone.id
+zabc.net
 // ===END PRIVATE DOMAINS===
