@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-08-13_09-07-09_UTC",
-    "COMMIT": "2d435aebd8a70c0c77891e48516dc97cd7d28b1f",
+    "VERSION": "2025-08-14_17-28-12_UTC",
+    "COMMIT": "2dbbb64390b7087a66e3d126032ab1a2951f35dc",
     "ICANN": [
         "ac",
         "com.ac",
@@ -731,6 +731,7 @@
         "pro.cy",
         "tm.cy",
         "cz",
+        "gov.cz",
         "de",
         "dj",
         "dk",
