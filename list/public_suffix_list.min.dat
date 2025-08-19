@@ -1,5 +1,5 @@
-// VERSION: 2025-08-14_17-28-12_UTC
-// COMMIT: 2dbbb64390b7087a66e3d126032ab1a2951f35dc
+// VERSION: 2025-08-18_05-46-20_UTC
+// COMMIT: f6d9f996b248aa92a6fcf7dd739730220f1cbabd
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8600,7 +8600,6 @@ github.io
 gitlab.io
 gitapp.si
 gitpage.si
-glitch.me
 nog.community
 co.ro
 shop.ro
@@ -9115,6 +9114,8 @@ routingthecloud.com
 sn.mynetname.net
 routingthecloud.net
 routingthecloud.org
+same-app.com
+same-preview.com
 csx.cc
 mydbserver.com
 webspaceconfig.de
