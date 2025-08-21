@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-08-18_05-46-20_UTC",
-    "COMMIT": "f6d9f996b248aa92a6fcf7dd739730220f1cbabd",
+    "VERSION": "2025-08-19_20-26-24_UTC",
+    "COMMIT": "db0dbe5d4852712c1e6b3bf06a053850c3e114c2",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9881,6 +9881,8 @@
         "beta.wmcloud.org",
         "wmflabs.org",
         "wdh.app",
+        "hrsn.au",
+        "vps.hrsn.au",
         "hrsn.dev",
         "windsurf.app",
         "windsurf.build",
@@ -9913,6 +9915,7 @@
         "yandexcloud.net",
         "storage.yandexcloud.net",
         "website.yandexcloud.net",
+        "sourcecraft.site",
         "official.academy",
         "yolasite.com",
         "ynh.fr",
