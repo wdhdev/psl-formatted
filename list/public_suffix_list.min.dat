@@ -1,5 +1,5 @@
-// VERSION: 2025-09-02_08-28-35_UTC
-// COMMIT: 4103956c4300902436b03d7da482536e757b3601
+// VERSION: 2025-09-04_10-39-28_UTC
+// COMMIT: a818607e99f2016e857e7a9b7cd9956aff9b5305
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -5467,7 +5467,6 @@ lib.mn.us
 cc.mo.us
 lib.mo.us
 cc.ms.us
-lib.ms.us
 cc.mt.us
 lib.mt.us
 cc.nc.us
@@ -7823,6 +7822,7 @@ brave.app
 *.s.brave.app
 brave.io
 *.s.brave.io
+shop.brendly.ba
 shop.brendly.hr
 shop.brendly.rs
 browsersafetymark.io
@@ -8741,6 +8741,7 @@ grafana-dev.net
 grayjayleagues.com
 günstigbestellen.de
 günstigliefern.de
+hackclub.app
 häkkinen.fi
 hashbang.sh
 hasura.app
