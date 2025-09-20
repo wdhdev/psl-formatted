@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-09-10_07-23-07_UTC",
-    "COMMIT": "c5d0e29d0d1b094ca1173497ff4e46b998d149c1",
+    "VERSION": "2025-09-18_10-47-47_UTC",
+    "COMMIT": "4a97adbc7f153c31b7d0f62a32bf856f0f1ee6c2",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8950,6 +8950,8 @@
         "*.vps.myjino.ru",
         "jote.cloud",
         "jotelulu.cloud",
+        "jote-dr-lt1.com",
+        "jote-rd-lt1.com",
         "webadorsite.com",
         "jouwweb.site",
         "*.cns.joyent.com",
@@ -9358,6 +9360,7 @@
         "lk3.ru",
         "mypep.link",
         "perspecta.cloud",
+        "support.site",
         "on-web.fr",
         "*.upsun.app",
         "upsunapp.com",
