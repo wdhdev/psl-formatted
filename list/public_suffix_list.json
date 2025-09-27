@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-09-23_13-07-02_UTC",
-    "COMMIT": "6defc0e19dbbe27dc2a0798256077d0b82d9c455",
+    "VERSION": "2025-09-25_23-29-58_UTC",
+    "COMMIT": "106b086f3ea59059096edba38a758c7a7a1f8664",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7835,6 +7835,8 @@
         "canva-apps.cn",
         "my.canvasite.cn",
         "canva-apps.com",
+        "rice-labs.com",
+        "canva.run",
         "my.canva.site",
         "drr.ac",
         "uwu.ai",
@@ -9911,6 +9913,7 @@
         "weeklylottery.org.uk",
         "wpenginepowered.com",
         "js.wpenginepowered.com",
+        "*.xenonconnect.de",
         "half.host",
         "xnbay.com",
         "u2.xnbay.com",
