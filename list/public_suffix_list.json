@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-09-25_23-29-58_UTC",
-    "COMMIT": "106b086f3ea59059096edba38a758c7a7a1f8664",
+    "VERSION": "2025-09-29_06-16-47_UTC",
+    "COMMIT": "2af0eac8d8a1e954d32ea11991102e8500de4065",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8979,6 +8979,9 @@
         "leadpages.co",
         "lpages.co",
         "lpusercontent.com",
+        "leapcell.app",
+        "leapcell.dev",
+        "leapcell.online",
         "liara.run",
         "iran.liara.run",
         "libp2p.direct",
@@ -9689,6 +9692,7 @@
         "w-corp-staticblitz.com",
         "w-credentialless-staticblitz.com",
         "w-staticblitz.com",
+        "bolt.host",
         "stackhero-network.com",
         "runs.onstackit.cloud",
         "stackit.gg",
