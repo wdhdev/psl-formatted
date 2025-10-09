@@ -1,5 +1,5 @@
-// VERSION: 2025-10-01_18-52-14_UTC
-// COMMIT: 0673151c3d770cbe2bdd0116ca615f24e73d370e
+// VERSION: 2025-10-08_12-46-28_UTC
+// COMMIT: ee7dec4a99602baaf51879dd8469b6642881a494
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8864,7 +8864,6 @@ iopsys.se
 ipifony.net
 ir.md
 is-a-good.dev
-is-a.dev
 iservschule.de
 mein-iserv.de
 schuldock.de
@@ -9004,7 +9003,6 @@ we.bs
 filegear-sg.me
 ggff.net
 *.user.localcert.dev
-localcert.net
 localtonet.com
 *.localto.net
 lodz.pl
@@ -9897,6 +9895,8 @@ wdh.app
 hrsn.au
 vps.hrsn.au
 hrsn.dev
+is-a.dev
+localcert.net
 windsurf.app
 windsurf.build
 panel.gg
