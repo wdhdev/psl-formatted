@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-10-08_12-46-28_UTC",
-    "COMMIT": "ee7dec4a99602baaf51879dd8469b6642881a494",
+    "VERSION": "2025-10-13_06-24-19_UTC",
+    "COMMIT": "797d160679466c6e07c15453fc0b547fcd9f5993",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7835,6 +7835,8 @@
         "canva-apps.cn",
         "my.canvasite.cn",
         "canva-apps.com",
+        "canva-hosted-embed.com",
+        "canvacode.com",
         "rice-labs.com",
         "canva.run",
         "my.canva.site",
@@ -8015,6 +8017,7 @@
         "*.raw.icp1.io",
         "*.icp.net",
         "caffeine.site",
+        "caffeine.xyz",
         "dfirma.pl",
         "dkonto.pl",
         "you2.pl",
