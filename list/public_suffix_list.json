@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-10-13_06-24-19_UTC",
-    "COMMIT": "797d160679466c6e07c15453fc0b547fcd9f5993",
+    "VERSION": "2025-10-13_13-22-32_UTC",
+    "COMMIT": "c002d19a8ca969110dd8a3838d972ca293bdc48f",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8953,8 +8953,9 @@
         "*.vps.myjino.ru",
         "jote.cloud",
         "jotelulu.cloud",
-        "jote-dr-lt1.com",
-        "jote-rd-lt1.com",
+        "eu1-plenit.com",
+        "la1-plenit.com",
+        "us1-plenit.com",
         "webadorsite.com",
         "jouwweb.site",
         "*.cns.joyent.com",
