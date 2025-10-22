@@ -11,6 +11,9 @@ We are fully open-source. You can see the different formatting scripts [here](ht
 ### How often are the formatted versions updated?
 All formats are automatically updated every 24 hours via GitHub Actions and are automatically deployed to `psl.hrsn.dev`.
 
+### Why deploy the site using NGINX and not statically?
+One main issue I found with deploying statically with Cloudflare or GitHub Pages is that with the way they serve content, `.dat` files are automatically downloaded, rather than just directly being shown in the browser. I did not want this to happen, so I decided to just deploy them to a server running NGINX where I can control how the content is served.
+
 ---
 
 *This is a 3rd party project, which is NOT endorsed by the [Public Suffix List](https://publicsuffix.org) project.*
