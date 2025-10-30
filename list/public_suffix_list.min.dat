@@ -1,5 +1,5 @@
-// VERSION: 2025-10-27_21-45-06_UTC
-// COMMIT: 8515b0cb8b0e2941a37803493c9d68f1c7ceb67e
+// VERSION: 2025-10-28_19-13-05_UTC
+// COMMIT: edb46e9c5f146e9302eb6f37b0c859b10ca9354c
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7936,6 +7936,7 @@ freesite.host
 cloudaccess.net
 cloudbeesusercontent.io
 *.cloudera.site
+cloudflare.app
 cf-ipfs.com
 cloudflare-ipfs.com
 trycloudflare.com
