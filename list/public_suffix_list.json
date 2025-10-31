@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-10-28_19-13-05_UTC",
-    "COMMIT": "edb46e9c5f146e9302eb6f37b0c859b10ca9354c",
+    "VERSION": "2025-10-29_17-39-25_UTC",
+    "COMMIT": "8e3b7b7885c7c198a66df3df8c049c066d7c1a6b",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9895,6 +9895,7 @@
         "*.vultrobjects.com",
         "wafflecell.com",
         "wal.app",
+        "wasmer.app",
         "webflow.io",
         "webflowtest.io",
         "*.webhare.dev",
