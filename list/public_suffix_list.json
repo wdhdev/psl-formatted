@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-10-29_17-39-25_UTC",
-    "COMMIT": "8e3b7b7885c7c198a66df3df8c049c066d7c1a6b",
+    "VERSION": "2025-11-06_15-16-33_UTC",
+    "COMMIT": "8a6908f3823256c5319a38b67ff20e8c1ab2c686",
     "ICANN": [
         "ac",
         "com.ac",
@@ -1127,6 +1127,7 @@
         "ac.in",
         "ai.in",
         "am.in",
+        "bank.in",
         "bihar.in",
         "biz.in",
         "business.in",
@@ -1140,6 +1141,7 @@
         "dr.in",
         "edu.in",
         "er.in",
+        "fin.in",
         "firm.in",
         "gen.in",
         "gov.in",
