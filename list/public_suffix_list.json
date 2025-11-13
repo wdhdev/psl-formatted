@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-11-11_16-10-48_UTC",
-    "COMMIT": "1ecde4048dfda7d3ed99c74b47cf9fccbaa8b985",
+    "VERSION": "2025-11-12_09-08-53_UTC",
+    "COMMIT": "7fbd910208bc53709cbdb678e136dc40af036190",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9246,6 +9246,7 @@
         "cust.retrosnub.co.uk",
         "ui.nabu.casa",
         "needle.run",
+        "co.site",
         "cloud.nospamproxy.com",
         "o365.cloud.nospamproxy.com",
         "netlib.re",
