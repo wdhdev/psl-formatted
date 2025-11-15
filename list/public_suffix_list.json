@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-11-12_09-08-53_UTC",
-    "COMMIT": "7fbd910208bc53709cbdb678e136dc40af036190",
+    "VERSION": "2025-11-14_10-08-11_UTC",
+    "COMMIT": "64ba165cf391818a086139239c8fa223264eebcc",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8436,6 +8436,8 @@
         "rt.ht",
         "elementor.cloud",
         "elementor.cool",
+        "emergent.cloud",
+        "emergent.host",
         "en-root.fr",
         "mytuleap.com",
         "tuleap-partners.com",
@@ -9941,6 +9943,7 @@
         "ltd.hk",
         "hk.org",
         "it.com",
+        "umso.co",
         "unison-services.cloud",
         "virtual-user.de",
         "virtualuser.de",
