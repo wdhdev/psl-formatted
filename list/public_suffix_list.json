@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-11-14_10-08-11_UTC",
-    "COMMIT": "64ba165cf391818a086139239c8fa223264eebcc",
+    "VERSION": "2025-11-17_16-04-41_UTC",
+    "COMMIT": "e31cf59c0b3d9de1ecb5001ef329f39b71597749",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9998,8 +9998,6 @@
         "wmcloud.org",
         "beta.wmcloud.org",
         "wmflabs.org",
-        "wdh.app",
-        "hrsn.au",
         "vps.hrsn.au",
         "hrsn.dev",
         "is-a.dev",
