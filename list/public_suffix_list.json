@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-11-17_16-04-41_UTC",
-    "COMMIT": "e31cf59c0b3d9de1ecb5001ef329f39b71597749",
+    "VERSION": "2025-11-17_16-46-18_UTC",
+    "COMMIT": "cd0dea17c489886c23f306a1114accb74edcdc48",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8030,6 +8030,7 @@
         "co.no",
         "*.devinapps.com",
         "webhosting.be",
+        "prvw.eu",
         "hosting-cluster.nl",
         "ctfcloud.net",
         "convex.app",
