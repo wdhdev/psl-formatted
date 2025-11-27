@@ -1,5 +1,5 @@
-// VERSION: 2025-11-24_21-12-44_UTC
-// COMMIT: 565e9dc7907cba1b3ae6b6d588120ec54d789806
+// VERSION: 2025-11-26_08-20-31_UTC
+// COMMIT: 7456e993bf8822a643b3f807234ae2a76f6f6512
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7897,6 +7897,8 @@ bplaced.net
 square7.net
 brave.app
 *.s.brave.app
+brave.dev
+*.s.brave.dev
 brave.io
 *.s.brave.io
 shop.brendly.ba
@@ -8673,6 +8675,8 @@ futuremailing.at
 *.ex.ortsinfo.at
 *.kunden.ortsinfo.at
 *.statics.cloud
+gadget.app
+gadget.host
 aliases121.com
 campaign.gov.uk
 service.gov.uk
@@ -9212,8 +9216,12 @@ westus2.azurestaticapps.net
 azurewebsites.net
 cloudapp.net
 trafficmanager.net
+servicebus.usgovcloudapi.net
+usgovcloudapp.net
 blob.core.windows.net
 servicebus.windows.net
+azure-api.us
+azurewebsites.us
 routingthecloud.com
 sn.mynetname.net
 routingthecloud.net
@@ -9391,7 +9399,6 @@ nsupdate.info
 nerdpol.ovh
 nyc.mn
 prvcy.page
-obl.ong
 observablehq.cloud
 static.observableusercontent.com
 omg.lol
