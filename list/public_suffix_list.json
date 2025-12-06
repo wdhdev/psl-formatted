@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-11-27_13-27-58_UTC",
-    "COMMIT": "d3567de748c61e2de5a3156cc52ef0e0fdc1dc0c",
+    "VERSION": "2025-12-04_07-50-09_UTC",
+    "COMMIT": "ea600e443a922cd3f1e2f96e1db3f860d0b097ea",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8442,6 +8442,7 @@
         "elementor.cloud",
         "elementor.cool",
         "emergent.cloud",
+        "preview.emergentagent.com",
         "emergent.host",
         "en-root.fr",
         "mytuleap.com",
@@ -9471,7 +9472,6 @@
         "srv.us",
         "gh.srv.us",
         "gl.srv.us",
-        "lk3.ru",
         "mypep.link",
         "perspecta.cloud",
         "support.site",
@@ -9544,6 +9544,8 @@
         "readthedocs.io",
         "rhcloud.com",
         "instances.spawn.cc",
+        "*.clusters.rdpa.co",
+        "*.srvrless.rdpa.co",
         "onrender.com",
         "app.render.com",
         "replit.app",
