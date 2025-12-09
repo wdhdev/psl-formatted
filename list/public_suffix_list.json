@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-12-06_18-27-07_UTC",
-    "COMMIT": "24874d0227995dff18964458432da2b987eb4837",
+    "VERSION": "2025-12-08_08-06-01_UTC",
+    "COMMIT": "37bc9a5452649ee7627446b4090345c5211c4520",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8125,6 +8125,9 @@
         "dnshome.de",
         "online.th",
         "shop.th",
+        "co.scot",
+        "me.scot",
+        "org.scot",
         "drayddns.com",
         "shoparena.pl",
         "dreamhosters.com",
