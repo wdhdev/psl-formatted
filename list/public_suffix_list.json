@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-12-08_08-06-01_UTC",
-    "COMMIT": "37bc9a5452649ee7627446b4090345c5211c4520",
+    "VERSION": "2025-12-15_23-04-59_UTC",
+    "COMMIT": "388317f415fdcce0a73433370d7b0ba5f8f3cb36",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9671,6 +9671,7 @@
         "*.we.crm.dev",
         "*.wf.crm.dev",
         "sandcats.io",
+        "sav.case",
         "logoip.com",
         "logoip.de",
         "fr-par-1.baremetal.scw.cloud",
