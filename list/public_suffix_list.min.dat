@@ -1,5 +1,5 @@
-// VERSION: 2025-12-15_23-04-59_UTC
-// COMMIT: 388317f415fdcce0a73433370d7b0ba5f8f3cb36
+// VERSION: 2025-12-18_00-40-39_UTC
+// COMMIT: 44bf7aac6858882e64ac20440367fac80486a7ce
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -997,6 +997,9 @@ edu.gy
 gov.gy
 net.gy
 org.gy
+onhercules.app
+hercules-app.com
+hercules-dev.com
 hk
 com.hk
 edu.hk
@@ -8120,6 +8123,9 @@ dpdns.org
 discordsays.com
 discordsez.com
 jozi.biz
+ccwu.cc
+cc.cd
+us.ci
 de5.net
 dnshome.de
 online.th
@@ -8446,7 +8452,6 @@ elementor.cool
 emergent.cloud
 preview.emergentagent.com
 emergent.host
-en-root.fr
 mytuleap.com
 tuleap-partners.com
 encr.app
@@ -8633,9 +8638,8 @@ firebaseapp.com
 fldrv.com
 on-fleek.app
 flutterflow.app
+sprites.app
 fly.dev
-shw.io
-edgeapp.net
 forgeblocks.com
 id.forgerock.io
 e2b.app
@@ -9172,6 +9176,8 @@ barsyonline.co.uk
 luyani.app
 luyani.net
 *.magentosite.cloud
+magicpatterns.app
+magicpatternsapp.com
 hb.cldmail.ru
 matlab.cloud
 modelscape.com
@@ -9485,8 +9491,6 @@ eu.platform.sh
 us.platform.sh
 *.platformsh.site
 *.tst.site
-platter-app.dev
-platterp.us
 pley.games
 onporter.run
 co.bn
@@ -9504,6 +9508,7 @@ mmv.kr
 vki.kr
 dev.project-study.com
 protonet.io
+platter-app.dev
 e.id
 chirurgiens-dentistes-en-france.fr
 byen.site
@@ -9833,7 +9838,6 @@ surveys.so
 ipfs.storacha.link
 ipfs.w3s.link
 storebase.store
-storipress.app
 storj.farm
 strapiapp.com
 media.strapiapp.com
