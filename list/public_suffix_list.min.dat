@@ -1,5 +1,5 @@
-// VERSION: 2025-12-18_00-40-39_UTC
-// COMMIT: 44bf7aac6858882e64ac20440367fac80486a7ce
+// VERSION: 2025-12-19_09-10-47_UTC
+// COMMIT: b07656aaea78f464241f79cbf346c61bc93dde0d
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7843,10 +7843,26 @@ eero-stage.online
 apigee.io
 panel.dev
 siiites.com
+int.apple
+*.cloud.int.apple
+*.r.cloud.int.apple
+*.ap-north-1.r.cloud.int.apple
+*.ap-south-1.r.cloud.int.apple
+*.ap-south-2.r.cloud.int.apple
+*.eu-central-1.r.cloud.int.apple
+*.eu-north-1.r.cloud.int.apple
+*.us-central-1.r.cloud.int.apple
+*.us-central-2.r.cloud.int.apple
+*.us-east-1.r.cloud.int.apple
+*.us-east-2.r.cloud.int.apple
+*.us-west-1.r.cloud.int.apple
+*.us-west-2.r.cloud.int.apple
+*.us-west-3.r.cloud.int.apple
 appspacehosted.com
 appspaceusercontent.com
 appudo.net
 appwrite.global
+appwrite.network
 *.appwrite.run
 on-aptible.com
 f5.si
@@ -8640,8 +8656,6 @@ on-fleek.app
 flutterflow.app
 sprites.app
 fly.dev
-forgeblocks.com
-id.forgerock.io
 e2b.app
 framer.ai
 framer.app
@@ -8912,6 +8926,7 @@ wphostedmail.com
 wpmucdn.com
 tempurl.host
 wpmudev.host
+indevs.in
 dyn-berlin.de
 in-berlin.de
 in-brb.de
@@ -9482,6 +9497,8 @@ gh.srv.us
 gl.srv.us
 mypep.link
 perspecta.cloud
+forgeblocks.com
+id.forgerock.io
 support.site
 on-web.fr
 *.upsun.app
