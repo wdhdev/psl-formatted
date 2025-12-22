@@ -1,6 +1,6 @@
 {
-    "VERSION": "2025-12-19_18-38-49_UTC",
-    "COMMIT": "3be833212471408940c0d59e5e59914b3f35f338",
+    "VERSION": "2025-12-21_00-34-40_UTC",
+    "COMMIT": "a0814017572883671d2f48e789e2173bb2a1e57d",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8923,6 +8923,7 @@
         "iki.fi",
         "ibxos.it",
         "iliadboxos.it",
+        "imagine-proxy.work",
         "smushcdn.com",
         "wphostedmail.com",
         "wpmucdn.com",
@@ -9425,7 +9426,6 @@
         "freeddns.us",
         "nsupdate.info",
         "nerdpol.ovh",
-        "nyc.mn",
         "prvcy.page",
         "observablehq.cloud",
         "static.observableusercontent.com",
@@ -9531,6 +9531,8 @@
         "e.id",
         "chirurgiens-dentistes-en-france.fr",
         "byen.site",
+        "nyc.mn",
+        "*.cn.st",
         "pubtls.org",
         "pythonanywhere.com",
         "eu.pythonanywhere.com",
