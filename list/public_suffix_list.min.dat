@@ -1,5 +1,5 @@
-// VERSION: 2025-12-21_00-34-40_UTC
-// COMMIT: a0814017572883671d2f48e789e2173bb2a1e57d
+// VERSION: 2025-12-22_11-45-29_UTC
+// COMMIT: 0f491e1366180d889b77fb98f51f4b62d1380413
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -5032,6 +5032,7 @@ org.sh
 si
 sj
 sk
+org.sk
 sl
 com.sl
 edu.sl
@@ -9090,6 +9091,7 @@ khplay.nl
 kapsi.fi
 ezproxy.kuleuven.be
 kuleuven.cloud
+ae.kg
 keymachine.de
 kinghost.net
 uni5.net
@@ -10091,5 +10093,6 @@ basicserver.io
 virtualserver.io
 enterprisecloud.nu
 zone.id
+nett.to
 zabc.net
 // ===END PRIVATE DOMAINS===
