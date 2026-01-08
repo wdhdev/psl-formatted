@@ -1,5 +1,5 @@
-// VERSION: 2025-12-28_14-57-43_UTC
-// COMMIT: 1ef6d3bc102c85d12e92be54ec0dad8ee990dd5f
+// VERSION: 2026-01-07_07-59-37_UTC
+// COMMIT: 53cafd4ef52f8121b892c0f7ccece7f163509eb8
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -997,9 +997,6 @@ edu.gy
 gov.gy
 net.gy
 org.gy
-onhercules.app
-hercules-app.com
-hercules-dev.com
 hk
 com.hk
 edu.hk
@@ -8885,6 +8882,9 @@ heiyu.space
 helioho.st
 heliohost.us
 hepforge.org
+onhercules.app
+hercules-app.com
+hercules-dev.com
 herokuapp.com
 heyflow.page
 heyflow.site
@@ -8930,7 +8930,6 @@ wphostedmail.com
 wpmucdn.com
 tempurl.host
 wpmudev.host
-indevs.in
 dyn-berlin.de
 in-berlin.de
 in-brb.de
@@ -9844,6 +9843,7 @@ stackit.gg
 stackit.rocks
 stackit.run
 stackit.zone
+indevs.in
 musician.io
 novecore.site
 api.stdlib.com
