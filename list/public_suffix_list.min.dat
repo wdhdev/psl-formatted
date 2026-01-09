@@ -1,5 +1,5 @@
-// VERSION: 2026-01-07_07-59-37_UTC
-// COMMIT: 53cafd4ef52f8121b892c0f7ccece7f163509eb8
+// VERSION: 2026-01-08_11-50-55_UTC
+// COMMIT: 2218b3633b8bb5121e127a3f23d8dac809018f77
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -5043,7 +5043,6 @@ com.sn
 edu.sn
 gouv.sn
 org.sn
-perso.sn
 univ.sn
 so
 com.so
@@ -7876,10 +7875,8 @@ potager.org
 sweetpepper.org
 myasustor.com
 cdn.prod.atlassian-dev.net
-translated.page
 myfritz.link
 myfritz.net
-onavstack.net
 *.awdev.ca
 *.advisor.ws
 ecommerce-shop.pl
@@ -7928,6 +7925,7 @@ radio.am
 radio.fm
 cdn.bubble.io
 bubbleapps.io
+*.bwcloud-os-instance.de
 uk0.bigv.io
 dh.bytemark.co.uk
 vm.bytemark.co.uk
@@ -8113,6 +8111,8 @@ deno.net
 dedyn.io
 deta.app
 deta.dev
+deuxfleurs.eu
+deuxfleurs.page
 *.at.ply.gg
 d6.ply.gg
 joinmc.link
@@ -9478,7 +9478,6 @@ tech.orange
 can.re
 authgear-staging.com
 authgearapps.com
-skygearapp.com
 outsystemscloud.com
 *.hosting.ovh.net
 *.webpaas.ovh.net
@@ -9970,19 +9969,6 @@ site.transip.me
 *.transurl.nl
 tunnelmole.net
 tuxfamily.org
-dd-dns.de
-dray-dns.de
-draydns.de
-dyn-vpn.de
-dynvpn.de
-mein-vigor.de
-my-vigor.de
-my-wan.de
-syno-ds.de
-synology-diskstation.de
-synology-ds.de
-diskstation.eu
-diskstation.org
 typedream.app
 pro.typeform.com
 uber.space
