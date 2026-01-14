@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-01-09_13-51-42_UTC",
-    "COMMIT": "6e5697a037da7d0a848e269cf9a9429b91817f22",
+    "VERSION": "2026-01-13_11-10-06_UTC",
+    "COMMIT": "3fe97e93dc111b13d36af21dc538f6a24de8c52d",
     "ICANN": [
         "ac",
         "com.ac",
@@ -10042,6 +10042,8 @@
         "windsurf.build",
         "panel.gg",
         "daemon.panel.gg",
+        "base44.app",
+        "base44-sandbox.com",
         "wixsite.com",
         "wixstudio.com",
         "editorx.io",
