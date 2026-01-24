@@ -1,5 +1,5 @@
-// VERSION: 2026-01-20_07-55-41_UTC
-// COMMIT: d372af084b07ad6f6d26b3d63abeee1738456c09
+// VERSION: 2026-01-23_19-21-39_UTC
+// COMMIT: 2bb8b06cc2e02a81121552f8edccb045f0e3040b
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7972,6 +7972,7 @@ uk.net
 ae.org
 com.se
 cx.ua
+discourse.diy
 discourse.group
 discourse.team
 clerk.app
@@ -8060,6 +8061,7 @@ edu.ru
 gov.ru
 int.ru
 mil.ru
+corespeed.app
 dyn.cosidns.de
 dnsupdater.de
 dynamisches-dns.de
@@ -9103,6 +9105,8 @@ webthings.io
 krellian.net
 oya.to
 co.de
+shiptoday.app
+shiptoday.build
 laravel.cloud
 on-forge.com
 on-vapor.com
@@ -9261,6 +9265,8 @@ routingthecloud.org
 same-app.com
 same-preview.com
 csx.cc
+miren.app
+miren.systems
 mydbserver.com
 webspaceconfig.de
 mittwald.info
