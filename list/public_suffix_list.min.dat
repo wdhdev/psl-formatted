@@ -1,5 +1,5 @@
-// VERSION: 2026-02-10_13-35-28_UTC
-// COMMIT: 7b922f914827180229e3840e7a94f67f036b439f
+// VERSION: 2026-02-12_09-47-49_UTC
+// COMMIT: 704aa6adac3774314c4ec96179648a0c14d56c98
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8057,7 +8057,11 @@ hosting-cluster.nl
 ctfcloud.net
 convex.app
 convex.cloud
+eu-west-1.convex.cloud
+us-east-1.convex.cloud
 convex.site
+eu-west-1.convex.site
+us-east-1.convex.site
 ac.ru
 edu.ru
 gov.ru
@@ -8941,6 +8945,7 @@ gr.com
 iki.fi
 ibxos.it
 iliadboxos.it
+imagine.diy
 imagine-proxy.work
 smushcdn.com
 wphostedmail.com
