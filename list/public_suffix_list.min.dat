@@ -1,5 +1,5 @@
-// VERSION: 2026-02-22_09-28-21_UTC
-// COMMIT: eec9da6693468b13c59b5fccf8fa17e21d3da2d7
+// VERSION: 2026-02-22_12-29-42_UTC
+// COMMIT: 35aa65b9d2ea34cdfa7ece1432603181cf2258de
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7896,6 +7896,7 @@ base.shop
 beagleboard.io
 bearblog.dev
 *.beget.app
+*.begetcdn.cloud
 pages.gay
 bnr.la
 bitbucket.io
