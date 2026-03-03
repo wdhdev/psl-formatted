@@ -1,5 +1,5 @@
-// VERSION: 2026-02-27_07-15-23_UTC
-// COMMIT: ccc3b53a1f52c921fb89f0119389b21829f9a2d1
+// VERSION: 2026-03-02_12-22-12_UTC
+// COMMIT: 7ef6384612e1b48bb8b6023716cc9a493ac25d8a
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -6993,6 +6993,8 @@ barsy.ca
 *.compute.estate
 *.alces.network
 alibabacloudcs.com
+ms.fun
+ms.show
 kasserver.com
 altervista.org
 alwaysdata.net
@@ -9320,6 +9322,7 @@ bmoattachments.org
 net.ru
 org.ru
 pp.ru
+my.be
 hostedpi.com
 caracal.mythic-beasts.com
 customer.mythic-beasts.com
