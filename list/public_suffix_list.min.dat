@@ -1,5 +1,5 @@
-// VERSION: 2026-04-08_15-01-18_UTC
-// COMMIT: 990747f4550efcc31520cb020c4e6b316ff00546
+// VERSION: 2026-04-10_20-27-44_UTC
+// COMMIT: 8f9e04f2be9098ada07aa3cf13592dfe78870985
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8125,6 +8125,7 @@ deno.dev
 deno-staging.dev
 deno.net
 sandbox.deno.net
+deployagent.com
 dedyn.io
 deta.app
 deta.dev
@@ -9123,6 +9124,15 @@ us1-plenit.com
 webadorsite.com
 jouwweb.site
 js.org
+elastic.k2.cloud
+lb.ru-msk.k2.cloud
+s3.ru-msk.k2.cloud
+website.ru-msk.k2.cloud
+lb.ru-spb.k2.cloud
+s3.ru-spb.k2.cloud
+website.ru-spb.k2.cloud
+s3.k2.cloud
+website.k2.cloud
 kaas.gg
 khplay.nl
 kapsi.fi
@@ -9461,6 +9471,31 @@ noop.app
 *.code.run
 *.database.run
 *.migration.run
+aberdeen.wa.us
+bainbridge-isl.wa.us
+bellevue.wa.us
+bremerton.wa.us
+centralia.wa.us
+chehalis.wa.us
+forks.wa.us
+gig-harbor.wa.us
+hoquiam.wa.us
+keyport.wa.us
+kingston.wa.us
+olympia.wa.us
+port-angeles.wa.us
+port-ludlow.wa.us
+port-orchard.wa.us
+port-townsend.wa.us
+poulsbo.wa.us
+redmond.wa.us
+renton.wa.us
+sea.wa.us
+seattle.wa.us
+sequim.wa.us
+shelton.wa.us
+silverdale.wa.us
+yarrow-point.wa.us
 noticeable.news
 notion.site
 dnsking.ch
@@ -10077,6 +10112,8 @@ now.sh
 v-info.info
 vistablog.ir
 deus-canvas.com
+vivenushop.com
+vivenushop.dev
 voorloper.cloud
 *.vultrobjects.com
 wafflecell.com
