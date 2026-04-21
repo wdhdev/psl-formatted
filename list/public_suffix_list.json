@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-04-16_05-56-51_UTC",
-    "COMMIT": "d254724e91abd027ba21af72678a69edea76b136",
+    "VERSION": "2026-04-20_06-38-07_UTC",
+    "COMMIT": "d793ebbb60a2f3ac36750aa28f57b4d675170cdc",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7848,6 +7848,7 @@
         "eero-stage.online",
         "opentunnel.xyz",
         "antagonist.cloud",
+        "claude.app",
         "apigee.io",
         "panel.dev",
         "siiites.com",
@@ -8895,8 +8896,6 @@
         "cloudfunctions.net",
         "goupile.fr",
         "pymnt.uk",
-        "cloudapps.digital",
-        "london.cloudapps.digital",
         "gov.nl",
         "grafana-dev.net",
         "grayjayleagues.com",
