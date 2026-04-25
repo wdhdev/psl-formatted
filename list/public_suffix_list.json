@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-04-20_06-38-07_UTC",
-    "COMMIT": "d793ebbb60a2f3ac36750aa28f57b4d675170cdc",
+    "VERSION": "2026-04-23_20-58-02_UTC",
+    "COMMIT": "851a507cfd0e7910470f224d1f9487cf3341c0fc",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8582,6 +8582,7 @@
         "staging.expo.app",
         "on.staging.expo.app",
         "onfabrica.com",
+        "fspages.org",
         "ru.net",
         "adygeya.ru",
         "bashkiria.ru",
@@ -9273,6 +9274,7 @@
         "messerli.app",
         "atmeta.com",
         "apps.fbsbx.com",
+        "*.metaaiusercontent.com",
         "*.cloud.metacentrum.cz",
         "custom.metacentrum.cz",
         "flt.cloud.muni.cz",
