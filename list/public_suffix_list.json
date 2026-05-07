@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-05-01_02-51-25_UTC",
-    "COMMIT": "8b4345f9a2513011b21e6fc7b8a7197a849be52c",
+    "VERSION": "2026-05-06_07-18-38_UTC",
+    "COMMIT": "d1e2f63ec30e86a4875577067821ad91b208018b",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8092,7 +8092,6 @@
         "static-access.net",
         "craft.me",
         "realm.cz",
-        "on.crisp.email",
         "*.cryptonomic.net",
         "cfolks.pl",
         "cyon.link",
