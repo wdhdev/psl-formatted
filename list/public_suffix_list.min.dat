@@ -1,5 +1,5 @@
-// VERSION: 2026-05-14_08-35-31_UTC
-// COMMIT: e452c7058d6946bd76952b128c12f5ce87a5acb8
+// VERSION: 2026-05-27_21-15-45_UTC
+// COMMIT: d61ebea91366dabf4c14e3a17e197d3c9558947e
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -1084,6 +1084,7 @@ utazas.hu
 video.hu
 id
 ac.id
+ai.id
 biz.id
 co.id
 desa.id
@@ -10131,10 +10132,9 @@ wasmer.app
 webflow.io
 webflowtest.io
 *.webhare.dev
-bookonline.app
 hotelwithflight.com
-reserve-online.com
 reserve-online.net
+book.online
 cprapid.com
 pleskns.com
 wp2.host
