@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-06-13_21-47-18_UTC",
-    "COMMIT": "9186eeeda85cef35b1551d00731464939c765cab",
+    "VERSION": "2026-06-22_11-46-12_UTC",
+    "COMMIT": "27a7b5d881b91def306422e6cc243f05c49f3a58",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9337,6 +9337,7 @@
         "mittwaldserver.info",
         "typo3server.info",
         "project.space",
+        "mkm.fan",
         "mocha.app",
         "mochausercontent.com",
         "mocha-sandbox.dev",
