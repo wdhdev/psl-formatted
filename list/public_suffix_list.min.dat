@@ -1,5 +1,5 @@
-// VERSION: 2026-06-22_11-46-12_UTC
-// COMMIT: 27a7b5d881b91def306422e6cc243f05c49f3a58
+// VERSION: 2026-06-24_06-18-09_UTC
+// COMMIT: 18ecca5d54471f21918798da451dd8d03a18f3c7
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8170,7 +8170,20 @@ ccwu.cc
 cc.cd
 us.ci
 de5.net
+dnshome.at
+resolve.bar
+ddns.berlin
+dnshome.cloud
+ddnssec.de
 dnshome.de
+dyndnssec.de
+heimdns.de
+srvdns.de
+dnshome.eu
+dnshome.it
+dyn.now
+heimdns.online
+ddns.wtf
 online.th
 shop.th
 co.scot
@@ -9634,6 +9647,9 @@ byen.site
 nyc.mn
 *.cn.st
 pubtls.org
+puter.app
+puter.site
+puter.work
 pythonanywhere.com
 eu.pythonanywhere.com
 qa2.com
