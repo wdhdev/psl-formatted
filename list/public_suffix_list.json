@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-07-06_09-10-11_UTC",
-    "COMMIT": "5ae2220ad86eab1364821329ff58d28828bddb19",
+    "VERSION": "2026-07-07_22-47-50_UTC",
+    "COMMIT": "b9a86cf0cd115f1e60b5815533f3fcfd2f9e8f4b",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8059,6 +8059,9 @@
         "*.otap.co",
         "co.ca",
         "co.com",
+        "sch.ac",
+        "dev.cv",
+        "store.cv",
         "codeberg.page",
         "csb.app",
         "preview.csb.app",
