@@ -1,5 +1,5 @@
-// VERSION: 2026-07-09_11-59-23_UTC
-// COMMIT: b9a86cf0cd115f1e60b5815533f3fcfd2f9e8f4b
+// VERSION: 2026-07-13_21-14-34_UTC
+// COMMIT: 8eb9e60139cb2c62ccec664554adae3767dc1374
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -916,12 +916,16 @@ edu.gd
 gov.gd
 ge
 com.ge
+cyb.ge
 edu.ge
 gov.ge
+llc.ge
 net.ge
+online.ge
 org.ge
 pvt.ge
 school.ge
+tnx.ge
 gf
 gg
 co.gg
@@ -1128,7 +1132,9 @@ in
 5g.in
 6g.in
 ac.in
+aero.in
 ai.in
+alumni.in
 am.in
 bank.in
 bihar.in
@@ -1163,8 +1169,10 @@ pg.in
 post.in
 pro.in
 res.in
+school.in
 travel.in
 tv.in
+ub.in
 uk.in
 up.in
 us.in
@@ -3804,13 +3812,17 @@ no
 fhs.no
 folkebibl.no
 fylkesbibl.no
+gielda.no
+herad.no
 idrett.no
+kommune.no
 museum.no
 priv.no
+suohkan.no
+tjielte.no
+uenorge.no
 vgs.no
 dep.no
-herad.no
-kommune.no
 mil.no
 stat.no
 aa.no
@@ -3946,7 +3958,7 @@ askøy.no
 askvoll.no
 asnes.no
 åsnes.no
-audnedaln.no
+audnedal.no
 aukra.no
 aure.no
 aurland.no
@@ -4057,7 +4069,6 @@ forsand.no
 fosnes.no
 fræna.no
 frana.no
-frei.no
 frogn.no
 froland.no
 frosta.no
@@ -4108,6 +4119,7 @@ halden.no
 halsa.no
 hamar.no
 hamaroy.no
+hamarøy.no
 hammarfeasta.no
 hámmárfeasta.no
 hammerfest.no
@@ -4162,6 +4174,7 @@ karasjohka.no
 kárášjohka.no
 karasjok.no
 karlsoy.no
+karlsøy.no
 karmoy.no
 karmøy.no
 kautokeino.no
@@ -4350,6 +4363,7 @@ ralingen.no
 rana.no
 randaberg.no
 rauma.no
+re.no
 rendalen.no
 rennebu.no
 rennesoy.no
@@ -4507,6 +4521,7 @@ tysvær.no
 tysvar.no
 ullensaker.no
 ullensvang.no
+ulstein.no
 ulvik.no
 unjarga.no
 unjárga.no
@@ -9051,6 +9066,9 @@ iopsys.se
 *.dweb.link
 *.inbrowser.link
 ipifony.net
+home64.de
+ipv64.de
+ipv64.net
 ir.md
 is-a-good.dev
 iservschule.de
@@ -9880,6 +9898,7 @@ dedibox.fr
 schokokeks.net
 gov.scot
 service.gov.scot
+mygov.scot
 scrysec.com
 client.scrypted.io
 firewall-gateway.com
