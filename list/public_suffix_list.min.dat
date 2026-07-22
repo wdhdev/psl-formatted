@@ -1,5 +1,5 @@
-// VERSION: 2026-07-15_18-13-59_UTC
-// COMMIT: 9b5c814414374aa19a93dc6dd7e47c01909524cc
+// VERSION: 2026-07-20_19-57-20_UTC
+// COMMIT: ca355e4aadee94e349e1f9c86145618cf762249d
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -1267,7 +1267,6 @@ trentin-sudtirol.it
 trentin-südtirol.it
 trentin-sued-tirol.it
 trentin-suedtirol.it
-trentino.it
 trentino-a-adige.it
 trentino-aadige.it
 trentino-alto-adige.it
@@ -1288,7 +1287,6 @@ trentinos-tirol.it
 trentinostirol.it
 trentinosud-tirol.it
 trentinosüd-tirol.it
-trentinosudtirol.it
 trentinosüdtirol.it
 trentinosued-tirol.it
 trentinosuedtirol.it
@@ -1304,7 +1302,6 @@ umbria.it
 val-d-aosta.it
 val-daosta.it
 vald-aosta.it
-valdaosta.it
 valle-aosta.it
 valle-d-aosta.it
 valle-daosta.it
@@ -1340,7 +1337,6 @@ aosta.it
 aoste.it
 ap.it
 aq.it
-aquila.it
 ar.it
 arezzo.it
 ascoli-piceno.it
@@ -1564,6 +1560,9 @@ sondrio.it
 sp.it
 sr.it
 ss.it
+su.it
+sud-sardegna.it
+sudsardegna.it
 südtirol.it
 suedtirol.it
 sv.it
@@ -1584,6 +1583,7 @@ trani-barletta-andria.it
 traniandriabarletta.it
 tranibarlettaandria.it
 trapani.it
+trentino.it
 trento.it
 treviso.it
 trieste.it
@@ -1602,6 +1602,7 @@ ve.it
 venezia.it
 venice.it
 verbania.it
+verbano-cusio-ossola.it
 vercelli.it
 verona.it
 vi.it
@@ -7953,9 +7954,6 @@ radio.fm
 cdn.bubble.io
 bubbleapps.io
 *.bwcloud-os-instance.de
-uk0.bigv.io
-dh.bytemark.co.uk
-vm.bytemark.co.uk
 cafjs.com
 canva-apps.cn
 my.canvasite.cn
@@ -8109,7 +8107,6 @@ knx-server.net
 static-access.net
 craft.me
 realm.cz
-*.cryptonomic.net
 cfolks.pl
 cyon.link
 cyon.site
@@ -9656,7 +9653,6 @@ eliv-dns.kr
 mmv.kr
 vki.kr
 dev.project-study.com
-protonet.io
 platter-app.dev
 e.id
 chirurgiens-dentistes-en-france.fr
@@ -9745,7 +9741,6 @@ worf.replit.dev
 repl.run
 resindevice.io
 devices.resinstaging.io
-hzc.io
 adimo.co.uk
 itcouldbewor.se
 aus.basketball
@@ -9998,7 +9993,6 @@ sryze.cc
 indevs.in
 musician.io
 novecore.site
-api.stdlib.com
 statichost.page
 feedback.ac
 forms.ac
@@ -10013,7 +10007,6 @@ surveys.so
 ipfs.storacha.link
 ipfs.w3s.link
 storebase.store
-storj.farm
 strapiapp.com
 media.strapiapp.com
 vps-host.net
