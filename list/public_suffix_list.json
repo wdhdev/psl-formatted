@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-07-20_19-57-20_UTC",
-    "COMMIT": "ca355e4aadee94e349e1f9c86145618cf762249d",
+    "VERSION": "2026-07-21_22-23-05_UTC",
+    "COMMIT": "54cf5588656759f9ce7ab8a087c7be336bcf8d12",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8613,7 +8613,6 @@
         "on.expo.app",
         "staging.expo.app",
         "on.staging.expo.app",
-        "onfabrica.com",
         "fspages.org",
         "ru.net",
         "adygeya.ru",
