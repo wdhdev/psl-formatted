@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-07-21_22-23-05_UTC",
-    "COMMIT": "54cf5588656759f9ce7ab8a087c7be336bcf8d12",
+    "VERSION": "2026-07-23_05-57-33_UTC",
+    "COMMIT": "438c5e02a9db7870300cb3108258aeefc8467c36",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8148,8 +8148,6 @@
         "piebox.site",
         "deployagent.space",
         "dedyn.io",
-        "deta.app",
-        "deta.dev",
         "deuxfleurs.eu",
         "deuxfleurs.page",
         "*.at.ply.gg",
