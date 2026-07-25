@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-07-23_05-57-33_UTC",
-    "COMMIT": "438c5e02a9db7870300cb3108258aeefc8467c36",
+    "VERSION": "2026-07-23_18-24-27_UTC",
+    "COMMIT": "93b4eb174b2da9ee3f6effc363b579a96a65c93a",
     "ICANN": [
         "ac",
         "com.ac",
@@ -9634,6 +9634,7 @@
         "us.platform.sh",
         "*.platformsh.site",
         "*.tst.site",
+        "playcode.site",
         "pley.games",
         "onporter.run",
         "co.bn",
