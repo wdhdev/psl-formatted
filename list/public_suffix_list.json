@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-08-17_18-44-50_UTC",
-    "COMMIT": "fe5aa073ba579b9d5ae92958b63a7d1de8c13e3a",
+    "VERSION": "2026-08-19_19-18-48_UTC",
+    "COMMIT": "e8c9a2b2b2856b6449999dd0ec0d118f364ed0cd",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6987,7 +6987,6 @@
         "*.auiusercontent.com",
         "beep.pl",
         "aiven.app",
-        "aivencloud.com",
         "*.aivencloud.com",
         "akadns.net",
         "akamai.net",
@@ -7863,6 +7862,8 @@
         "opentunnel.xyz",
         "antagonist.cloud",
         "claude.app",
+        "claudeusercontent.com",
+        "frame.claudeusercontent.com",
         "*.cursorusercontent.com",
         "apigee.io",
         "panel.dev",
