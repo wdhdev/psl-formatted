@@ -1,5 +1,5 @@
-// VERSION: 2026-08-29_12-33-06_UTC
-// COMMIT: e8c9a2b2b2856b6449999dd0ec0d118f364ed0cd
+// VERSION: 2026-09-02_06-03-53_UTC
+// COMMIT: 0f1fa47ec45056a19c2fdcd32a08442de9715d12
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7958,6 +7958,7 @@ bubbleapps.io
 *.bwcloud-os-instance.de
 cafjs.com
 canva-apps.cn
+canva-code.cn
 my.canvasite.cn
 khsj.cn
 canva-apps.com
@@ -9115,8 +9116,6 @@ ryd.wafaicloud.com
 j.scaleforce.com.cy
 jelastic.dogado.eu
 fi.cloudplatform.fi
-demo.datacenter.fi
-paas.datacenter.fi
 jele.host
 mircloud.host
 paas.beebyte.io
@@ -9198,6 +9197,8 @@ shiptoday.build
 laravel.cloud
 on-forge.com
 on-vapor.com
+*.eth.limo
+*.eth.link
 git-repos.de
 lcube-server.de
 svn-repos.de
@@ -9752,6 +9753,8 @@ nz.basketball
 subsc-pay.com
 subsc-pay.net
 git-pages.rit.edu
+*.builtwithrocket.new
+rocketpreview.app
 rocky.page
 rub.de
 ruhr-uni-bochum.de
@@ -10155,6 +10158,7 @@ vercel.app
 v0.build
 vercel.dev
 vusercontent.net
+tmp.now
 vercel.run
 now.sh
 2038.io
@@ -10221,9 +10225,6 @@ js.wpenginepowered.com
 grok.me
 *.xenonconnect.de
 half.host
-xnbay.com
-u2.xnbay.com
-u2-local.xnbay.com
 cistron.nl
 demon.nl
 xs4all.space
