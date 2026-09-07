@@ -1,5 +1,5 @@
-// VERSION: 2026-09-03_19-51-30_UTC
-// COMMIT: b952f046c27f9b2a7c3e5d2060f9e3acbc4cf1e8
+// VERSION: 2026-09-05_20-59-48_UTC
+// COMMIT: f540a06159213b6e8ed9c87d2dd3a52373637e92
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -371,6 +371,7 @@ deporte.bo
 ecologia.bo
 economia.bo
 empresa.bo
+ia.bo
 indigena.bo
 industria.bo
 info.bo
@@ -4874,9 +4875,11 @@ net.pn
 org.pn
 post
 pr
+ac.pr
 biz.pr
 com.pr
 edu.pr
+est.pr
 gov.pr
 info.pr
 isla.pr
@@ -4884,8 +4887,6 @@ name.pr
 net.pr
 org.pr
 pro.pr
-ac.pr
-est.pr
 prof.pr
 pro
 aaa.pro
@@ -8164,6 +8165,7 @@ icp0.io
 *.raw.icp0.io
 icp1.io
 *.raw.icp1.io
+opencloud.me
 *.icp.net
 caffeine.site
 caffeine.xyz
@@ -9825,8 +9827,8 @@ nz.basketball
 subsc-pay.com
 subsc-pay.net
 git-pages.rit.edu
-*.builtwithrocket.new
 rocketpreview.app
+*.builtwithrocket.new
 rocky.page
 rub.de
 ruhr-uni-bochum.de
