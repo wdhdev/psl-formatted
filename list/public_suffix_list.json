@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-09-07_20-57-11_UTC",
-    "COMMIT": "9fc6745c5d3f678a59af9c24de72e5eb3c300e2c",
+    "VERSION": "2026-09-08_12-18-37_UTC",
+    "COMMIT": "3955e3ec29b94c3cca7bd4509c5f14a7c0959e26",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8932,6 +8932,8 @@
         "translate.goog",
         "*.usercontent.goog",
         "cloudfunctions.net",
+        "cloud.run",
+        "ai.studio",
         "goupile.fr",
         "pymnt.uk",
         "gov.nl",
