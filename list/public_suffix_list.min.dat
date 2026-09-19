@@ -1,5 +1,5 @@
-// VERSION: 2026-09-15_10-18-26_UTC
-// COMMIT: 3955e3ec29b94c3cca7bd4509c5f14a7c0959e26
+// VERSION: 2026-09-17_19-09-53_UTC
+// COMMIT: 329834e40a8543f3ef6265db543b7af6c4185571
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8964,6 +8964,7 @@ hercules-app.com
 hercules-dev.com
 here.now
 herokuapp.com
+*.compute.herokuapp.com
 heyflow.page
 heyflow.site
 ravendb.cloud
@@ -9750,8 +9751,6 @@ qa2.com
 qcx.io
 *.sys.qcx.io
 myqnapcloud.cn
-alpha-myqnapcloud.com
-dev-myqnapcloud.com
 mycloudnas.com
 mynascloud.com
 myqnapcloud.com
