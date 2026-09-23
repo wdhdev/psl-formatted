@@ -1,5 +1,5 @@
-// VERSION: 2026-09-21_10-14-19_UTC
-// COMMIT: 17cb0fe6547bacf263f5f931218885ab89d3dc75
+// VERSION: 2026-09-21_18-50-07_UTC
+// COMMIT: 728555a30ef4d40e42a82d5678e5fbad2ad17b26
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8124,6 +8124,10 @@ store.dk
 dyndns.dappnode.io
 builtwithdark.com
 darklang.io
+aws.databricksapps.com
+*.azure.databricksapps.com
+gcp.databricksapps.com
+aws-gov.databricksapps.us
 demo.datadetect.com
 instance.datadetect.com
 edgestack.me
