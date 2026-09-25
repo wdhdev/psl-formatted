@@ -1,5 +1,5 @@
-// VERSION: 2026-09-21_18-50-07_UTC
-// COMMIT: 728555a30ef4d40e42a82d5678e5fbad2ad17b26
+// VERSION: 2026-09-24_13-26-36_UTC
+// COMMIT: a179a48c465e818cfd8d626691cb317985da87fb
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8086,8 +8086,10 @@ co.nl
 co.no
 *.devinapps.com
 webhosting.be
+site.webhosting.be
 prvw.eu
 hosting-cluster.nl
+site.hosting-cluster.nl
 ctfcloud.net
 convex.app
 convex.cloud
@@ -8804,6 +8806,7 @@ github.io
 gitlab.io
 gitapp.si
 gitpage.si
+glideos.app
 nog.community
 co.ro
 shop.ro
@@ -9079,6 +9082,7 @@ ipifony.net
 home64.de
 ipv64.de
 ipv64.net
+iqhs.pl
 ir.md
 is-a-good.dev
 iservschule.de
