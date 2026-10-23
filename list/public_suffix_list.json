@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-10-20_08-40-56_UTC",
-    "COMMIT": "5dd321ffe02039e2431382a095cf80e27ff5eb94",
+    "VERSION": "2026-10-22_08-36-41_UTC",
+    "COMMIT": "8437e5262f13305f94087abe699b4fe2be1d1de8",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7007,6 +7007,7 @@
         "*.compute.estate",
         "*.alces.network",
         "alibabacloudcs.com",
+        "*.ztna-dingtalk.com",
         "ms.fun",
         "ms.show",
         "kasserver.com",
