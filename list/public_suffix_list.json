@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-10-28_13-15-55_UTC",
-    "COMMIT": "9dfbe81931367b3f0af21035c36ae7eeb830dd88",
+    "VERSION": "2026-10-31_14-17-28_UTC",
+    "COMMIT": "73f8cc701c084fe07d888ec552b2f0b53281a674",
     "ICANN": [
         "ac",
         "com.ac",
@@ -6265,7 +6265,6 @@
         "health",
         "healthcare",
         "help",
-        "helsinki",
         "here",
         "hermes",
         "hiphop",
