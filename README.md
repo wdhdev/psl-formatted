@@ -2,7 +2,7 @@
 A project with the aim of providing the Public Suffix List in different formats.
 
 ## Pulling the formatted files
-You can pull the formatted versions of the PSL from the [`**list**`](https://github.com/wdhdev/psl-formatted/tree/main/list) folder in this repository!
+You can pull the formatted versions of the PSL from the [**`list`**](https://github.com/wdhdev/psl-formatted/tree/main/list) folder in this repository!
 
 ## FAQ
 ### How can I trust the formatted versions of the PSL?
