@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-11-06_09-01-47_UTC",
-    "COMMIT": "94ec5df7273926560d91e77c002000ba1a53fec4",
+    "VERSION": "2026-11-08_13-21-08_UTC",
+    "COMMIT": "7a21dc3491d43db036124fdd6a3a77d1cc44ad8a",
     "ICANN": [
         "ac",
         "com.ac",
@@ -5622,7 +5622,9 @@
         "org.vi",
         "vn",
         "ac.vn",
+        "ad.vn",
         "ai.vn",
+        "ap.vn",
         "biz.vn",
         "com.vn",
         "edu.vn",
@@ -5634,6 +5636,7 @@
         "io.vn",
         "name.vn",
         "net.vn",
+        "on.vn",
         "org.vn",
         "pro.vn",
         "angiang.vn",
