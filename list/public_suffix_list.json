@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-11-08_13-21-08_UTC",
-    "COMMIT": "7a21dc3491d43db036124fdd6a3a77d1cc44ad8a",
+    "VERSION": "2026-11-09_13-00-17_UTC",
+    "COMMIT": "ab73a956765706dc3f42dbac5c7e48df2297e1ac",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7984,8 +7984,10 @@
         "pages.gay",
         "bnr.la",
         "bitbucket.io",
+        "ship.place",
         "blackbaudcdn.net",
         "of.je",
+        "prod.page",
         "square.site",
         "bluebite.io",
         "boomla.net",
