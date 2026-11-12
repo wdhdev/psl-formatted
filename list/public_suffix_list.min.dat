@@ -1,5 +1,5 @@
-// VERSION: 2026-11-09_13-00-17_UTC
-// COMMIT: ab73a956765706dc3f42dbac5c7e48df2297e1ac
+// VERSION: 2026-11-10_11-23-57_UTC
+// COMMIT: 3db7776283b0874634fea8b01168f785360d64f2
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -6968,6 +6968,7 @@ ltd.ua
 611.to
 a2hosted.com
 cpserver.com
+abyme.dev
 activetrail.biz
 myaddr.dev
 myaddr.io
@@ -8126,6 +8127,7 @@ objects.lpg.cloudscale.ch
 objects.rma.cloudscale.ch
 lpg.objectstorage.ch
 rma.objectstorage.ch
+cloudzyro.app
 wnext.app
 cnpy.gdn
 *.otap.co
@@ -8999,6 +9001,7 @@ cloud.run
 ai.studio
 goupile.fr
 pymnt.uk
+gov.de
 gov.nl
 grafana-dev.net
 grayjayleagues.com
