@@ -1,5 +1,5 @@
-// VERSION: 2026-11-10_11-23-57_UTC
-// COMMIT: 3db7776283b0874634fea8b01168f785360d64f2
+// VERSION: 2026-11-12_19-44-12_UTC
+// COMMIT: aa004f90b4cbe1c54ea96375622eca83d76059f0
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -9379,6 +9379,7 @@ mediatech.by
 mediatech.dev
 hra.health
 medusajs.app
+medusajs.site
 miniserver.com
 memset.net
 messerli.app
@@ -9516,6 +9517,9 @@ mkm.fan
 mocha.app
 mochausercontent.com
 mocha-sandbox.dev
+modelence.app
+cloud.modelence.app
+sandbox.modelence.app
 modx.dev
 bmoattachments.org
 net.ru
@@ -9886,6 +9890,7 @@ up.railway.app
 ravpage.co.il
 readthedocs-hosted.com
 readthedocs.io
+rwx.run
 rhcloud.com
 instances.spawn.cc
 *.clusters.rdpa.co
@@ -10328,6 +10333,7 @@ tmp.now
 vercel.run
 now.sh
 2038.io
+vibekit.page
 v-info.info
 vistablog.ir
 deus-canvas.com
