@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-11-12_19-44-12_UTC",
-    "COMMIT": "aa004f90b4cbe1c54ea96375622eca83d76059f0",
+    "VERSION": "2026-11-13_14-44-35_UTC",
+    "COMMIT": "71c235dd3f888dd4ecd066817050a7482da710e5",
     "ICANN": [
         "ac",
         "com.ac",
@@ -7916,6 +7916,10 @@
         "transfer-webapp.eusc-de-east-1.on.amazonwebservices.eu",
         "eero.online",
         "eero-stage.online",
+        "app.amba.host",
+        "cdn.amba.host",
+        "fn.amba.host",
+        "go.amba.host",
         "opentunnel.xyz",
         "antagonist.cloud",
         "claude.app",
@@ -8175,6 +8179,7 @@
         "static-access.net",
         "craft.me",
         "realm.cz",
+        "crbts.app",
         "cfolks.pl",
         "cyon.link",
         "cyon.site",
