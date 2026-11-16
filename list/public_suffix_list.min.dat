@@ -1,5 +1,5 @@
-// VERSION: 2026-11-13_14-44-35_UTC
-// COMMIT: 71c235dd3f888dd4ecd066817050a7482da710e5
+// VERSION: 2026-11-14_18-45-38_UTC
+// COMMIT: dfe55f3548d0fe51c04b8d2903507a01fdec57ad
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -6987,6 +6987,7 @@ adobeio-static.net
 adobeioruntime.net
 africa.com
 *.auiusercontent.com
+agilevibes.app
 beep.pl
 aiven.app
 *.aivencloud.com
@@ -7964,6 +7965,8 @@ myasustor.com
 *.atlassian-3p-us-gov-mod.com
 *.atlassian-isolated-3p.com
 cdn.prod.atlassian-dev.net
+space.fast
+view.fast
 myfritz.link
 myfritz.net
 *.awdev.ca
@@ -7983,6 +7986,7 @@ shopselect.net
 base.shop
 beagleboard.io
 bearblog.dev
+bearly.sh
 *.beget.app
 *.begetcdn.cloud
 pages.gay
@@ -8203,6 +8207,7 @@ dattoweb.com
 mydatto.com
 dattolocal.net
 mydatto.net
+ddns.ge
 ddnss.de
 dyn.ddnss.de
 dyndns.ddnss.de
@@ -8593,7 +8598,12 @@ mywire.org
 roxa.org
 webredirect.org
 myddns.rocks
+dns.army
+v6.army
+dns.navy
+v6.navy
 dynv6.net
+v6.rocks
 e4.cz
 easypanel.app
 easypanel.host
@@ -8822,6 +8832,7 @@ freedesktop.org
 freemyip.com
 *.frusky.de
 wien.funkfeuer.at
+xwx.me
 daemon.asia
 dix.asia
 mydns.bz
@@ -9077,8 +9088,6 @@ gr.com
 iki.fi
 ibxos.it
 iliadboxos.it
-imagine.diy
-imagine-proxy.work
 smushcdn.com
 wphostedmail.com
 wpmucdn.com
@@ -9368,6 +9377,7 @@ barsyonline.co.uk
 luyani.app
 luyani.net
 *.magentosite.cloud
+mymagic.page
 magicpatterns.app
 magicpatternsapp.com
 hb.cldmail.ru
@@ -9611,6 +9621,7 @@ ngrok.pro
 torun.pl
 nh-serv.co.uk
 nimsite.uk
+ninjaneer-sites.com
 mmafan.biz
 myftp.biz
 no-ip.biz
@@ -9752,6 +9763,7 @@ nerdpol.ovh
 prvcy.page
 observablehq.cloud
 static.observableusercontent.com
+omgs.page
 omg.lol
 cloudycluster.net
 omniwe.site
@@ -9808,6 +9820,7 @@ ownprovider.com
 own.pm
 *.owo.codes
 ox.rs
+myoxypages.com
 oy.lc
 pagelemon.dev
 pgfog.com
@@ -9900,6 +9913,9 @@ rhcloud.com
 instances.spawn.cc
 *.clusters.rdpa.co
 *.srvrless.rdpa.co
+reliantlabs.dev
+sites.reliantlabs.dev
+reliantpreview.dev
 onrender.com
 app.render.com
 replit.app
@@ -9938,6 +9954,7 @@ io.noc.ruhr-uni-bochum.de
 спб.рус
 я.рус
 ras.ru
+sail.box
 nyat.app
 180r.com
 dojin.com
@@ -10103,6 +10120,10 @@ myshopify.com
 shopitsite.com
 shopware.shop
 shopware.store
+co.fo
+com.fo
+wz.io
+wz.org
 mo-siemens.io
 1kapp.com
 appchizi.com
@@ -10258,6 +10279,7 @@ telebit.app
 telebit.io
 *.telebit.xyz
 teleport.sh
+terramind.io
 *.firenet.ch
 *.svc.firenet.ch
 reservd.com
@@ -10344,11 +10366,13 @@ vistablog.ir
 deus-canvas.com
 vivenushop.com
 vivenushop.dev
+voati.host
 voorloper.cloud
 *.vultrobjects.com
 wafflecell.com
 wal.app
 wasmer.app
+sm.run
 webflow.io
 webflowtest.io
 *.webhare.dev
