@@ -1,5 +1,5 @@
-// VERSION: 2026-11-15_20-28-43_UTC
-// COMMIT: fd22c6c8b3fd7e854c1eff2194cfd4ebc9854b88
+// VERSION: 2026-11-17_14-38-36_UTC
+// COMMIT: ee4f2faaca9387a7cf3d433e68484b82c9542543
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -8160,6 +8160,7 @@ prvw.eu
 hosting-cluster.nl
 site.hosting-cluster.nl
 ctfcloud.net
+prod.enter.pro
 convex.app
 convex.cloud
 eu-west-1.convex.cloud
@@ -8860,6 +8861,8 @@ futuremailing.at
 *.statics.cloud
 gadget.app
 gadget.host
+fastedge.app
+gcorecdn.com
 campaign.gov.uk
 service.gov.uk
 independent-commission.uk
@@ -9276,6 +9279,7 @@ kiloapps.ai
 kiloapps.io
 kinghost.net
 uni5.net
+kliv.site
 koobin.events
 webthings.io
 krellian.net
@@ -9384,6 +9388,8 @@ mymagic.page
 magicpatterns.app
 magicpatternsapp.com
 hb.cldmail.ru
+mailerpage.io
+subscribepage.io
 matlab.cloud
 modelscape.com
 mwcloudnonprod.com
@@ -10154,6 +10160,7 @@ streamlitapp.com
 try-snowplow.com
 mafelo.net
 sol.site
+solidres.page
 playstation-cloud.com
 srht.site
 apps.lair.io
@@ -10327,6 +10334,7 @@ lima.zone
 site.transip.me
 *.transurl.nl
 *.triton.zone
+*.2na.am
 tunnelmole.net
 tuxfamily.org
 typedream.app
@@ -10338,6 +10346,7 @@ ltd.hk
 hk.org
 it.com
 umso.co
+uncld.dev
 unison-services.cloud
 virtual-user.de
 virtualuser.de
