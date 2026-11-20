@@ -1,6 +1,6 @@
 {
-    "VERSION": "2026-11-17_16-14-34_UTC",
-    "COMMIT": "09c1b150f33c6145a73afcf7db0fb872fc54b4d1",
+    "VERSION": "2026-11-19_08-30-20_UTC",
+    "COMMIT": "f7796455091118a5617cc7588523b083a8223301",
     "ICANN": [
         "ac",
         "com.ac",
@@ -8833,6 +8833,9 @@
         "freebox-os.fr",
         "freeboxos.fr",
         "freedesktop.org",
+        "pvf.cc",
+        "kz.ci",
+        "xyz.ci",
         "freemyip.com",
         "*.frusky.de",
         "wien.funkfeuer.at",
@@ -9865,6 +9868,7 @@
         "pstmn.io",
         "mock.pstmn.io",
         "httpbin.org",
+        "*.prairielearn-user-content.com",
         "prequalifyme.today",
         "xen.prgmr.com",
         "priv.at",
