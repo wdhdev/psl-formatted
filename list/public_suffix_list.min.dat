@@ -1,5 +1,5 @@
-// VERSION: 2026-11-19_08-30-20_UTC
-// COMMIT: f7796455091118a5617cc7588523b083a8223301
+// VERSION: 2026-11-21_04-33-45_UTC
+// COMMIT: 87a2c1b8de5886a133ff4da21b2aa6fec88d8739
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -6843,7 +6843,6 @@ wtc
 wtf
 xbox
 xerox
-xihuan
 xin
 कॉम
 セール
@@ -9870,6 +9869,11 @@ httpbin.org
 *.prairielearn-user-content.com
 prequalifyme.today
 xen.prgmr.com
+ec.cc
+eu.cc
+gu.cc
+uk.cc
+us.cc
 priv.at
 c01.kr
 eliv-api.kr
@@ -10283,11 +10287,6 @@ p.tawkto.email
 tche.br
 site.tb-hosting.com
 directwp.eu
-ec.cc
-eu.cc
-gu.cc
-uk.cc
-us.cc
 edugit.io
 s3.teckids.org
 telebit.app
@@ -10438,6 +10437,8 @@ meinforum.net
 affinitylottery.org.uk
 raffleentry.org.uk
 weeklylottery.org.uk
+wordsmithmcpcontent.com
+staging.wordsmithmcpcontent.com
 wpenginepowered.com
 js.wpenginepowered.com
 *.xenonconnect.de
@@ -10460,6 +10461,7 @@ za.net
 za.org
 zap.cloud
 zeabur.app
+fj.kg
 *.zerops.app
 prg1-zerops.zone
 *.zerops.zone
