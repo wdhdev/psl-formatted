@@ -1,5 +1,5 @@
-// VERSION: 2026-11-21_04-33-45_UTC
-// COMMIT: 87a2c1b8de5886a133ff4da21b2aa6fec88d8739
+// VERSION: 2026-11-23_15-54-01_UTC
+// COMMIT: faf981a207f390881e6c3bcc7b9a1d57b8db066f
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -7956,6 +7956,7 @@ user.aseinet.ne.jp
 gv.vc
 d.gv.vc
 user.party.eus
+sites.aspirethemes.com
 pimienta.org
 poivron.org
 potager.org
@@ -9000,6 +9001,8 @@ whitesnow.jp
 zombie.jp
 heteml.net
 vibehost.space
+*.airoapp.ai
+*.host.cloud
 graphic.design
 goip.de
 *.hosted.app
