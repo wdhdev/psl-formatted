@@ -1,5 +1,5 @@
-// VERSION: 2026-11-24_09-08-17_UTC
-// COMMIT: 41dad7397b7fe9f03c694fbdb1b864973fe006c4
+// VERSION: 2026-11-25_16-42-05_UTC
+// COMMIT: b859dc136777a7efd40c38fbf27a673a45ee31cf
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -582,10 +582,13 @@ org.bt
 bv
 bw
 ac.bw
+agric.bw
 co.bw
 gov.bw
+me.bw
 net.bw
 org.bw
+shop.bw
 by
 gov.by
 mil.by
@@ -7963,8 +7966,11 @@ potager.org
 sweetpepper.org
 myasustor.com
 *.atlassian-3p.com
+*.shared.atlassian-3p.com
 *.atlassian-3p-us-gov-mod.com
+*.shared.atlassian-3p-us-gov-mod.com
 *.atlassian-isolated-3p.com
+*.shared.atlassian-isolated-3p.com
 cdn.prod.atlassian-dev.net
 space.fast
 view.fast
@@ -8001,6 +8007,7 @@ of.je
 prod.page
 square.site
 bluebite.io
+bonto.page
 boomla.net
 boutir.com
 boxfuse.io
@@ -8618,6 +8625,8 @@ twmail.net
 twmail.org
 mymailer.com.tw
 url.tw
+ipdisk.co.kr
+iptime.org
 at.emf.camp
 rt.ht
 elementor.cloud
@@ -8634,6 +8643,7 @@ lp.dev
 api.lp.dev
 objects.lp.dev
 eu.encoway.cloud
+entrypages.net
 eu.org
 al.eu.org
 asso.eu.org
@@ -8703,6 +8713,7 @@ expo.app
 on.expo.app
 staging.expo.app
 on.staging.expo.app
+faable.link
 fspages.org
 ru.net
 adygeya.ru
@@ -8841,6 +8852,7 @@ freemyip.com
 *.frusky.de
 wien.funkfeuer.at
 xwx.me
+fusebase.site
 daemon.asia
 dix.asia
 mydns.bz
@@ -9035,6 +9047,7 @@ gov.nl
 grafana-dev.net
 grayjayleagues.com
 grebedoc.dev
+greybull.site
 günstigbestellen.de
 günstigliefern.de
 gv.uy
@@ -9073,6 +9086,7 @@ homesklep.pl
 *.kin.one
 *.id.pub
 *.kin.pub
+onhomemade.com
 seprox.hooc.me
 hoplix.shop
 orx.biz
@@ -9089,6 +9103,8 @@ ltd.ng
 ngo.ng
 plc.ng
 hstgr.cloud
+hostney.app
+hostney.cloud
 hostyhosting.io
 hf.space
 static.hf.space
@@ -9118,6 +9134,7 @@ in-dsl.org
 in-vpn.org
 oninferno.net
 info.cx
+infusion-ai.cloud
 ac.leg.br
 al.leg.br
 am.leg.br
@@ -9185,7 +9202,6 @@ cloud.interhostsolutions.be
 alp1.ae.flow.ch
 appengine.flow.ch
 es-1.axarnet.cloud
-diadem.cloud
 vip.jelastic.cloud
 jele.cloud
 it1.eur.aruba.jenv-aruba.cloud
@@ -9217,7 +9233,6 @@ j.scaleforce.com.cy
 jelastic.dogado.eu
 fi.cloudplatform.fi
 jele.host
-mircloud.host
 paas.beebyte.io
 sekd1.beebyteapp.io
 jele.io
@@ -9247,7 +9262,6 @@ jelastic.team
 orangecloud.tn
 j.layershift.co.uk
 phx.enscaled.us
-mircloud.us
 myjino.ru
 *.hosting.myjino.ru
 *.landing.myjino.ru
@@ -9305,8 +9319,6 @@ leadpages.co
 lpages.co
 lpusercontent.com
 leapcell.app
-leapcell.dev
-leapcell.online
 liara.run
 iran.liara.run
 libp2p.direct
@@ -9421,6 +9433,8 @@ apps.fbsbx.com
 custom.metacentrum.cz
 flt.cloud.muni.cz
 usr.cloud.muni.cz
+atoms.world
+pub.atoms.world
 meteorapp.com
 eu.meteorapp.com
 co.pl
@@ -9557,6 +9571,7 @@ net.ru
 org.ru
 pp.ru
 my.be
+mythex.app
 hostedpi.com
 caracal.mythic-beasts.com
 customer.mythic-beasts.com
@@ -9891,12 +9906,16 @@ platter-app.dev
 e.id
 chirurgiens-dentistes-en-france.fr
 byen.site
+fs.kg
+bg5.net
+is-a.si
 nyc.mn
 *.cn.st
 pubtls.org
 puter.app
 puter.site
 puter.work
+pymaia.app
 pythonanywhere.com
 eu.pythonanywhere.com
 qa2.com
@@ -9953,7 +9972,6 @@ repl.run
 resindevice.io
 devices.resinstaging.io
 retool.app
-adimo.co.uk
 itcouldbewor.se
 aus.basketball
 nz.basketball
@@ -10138,6 +10156,7 @@ vicp.fun
 yicp.fun
 zicp.fun
 sheezy.games
+shipstatic.com
 myshopblocks.com
 myshopify.com
 shopitsite.com
@@ -10243,6 +10262,7 @@ vps-host.net
 atl.jelastic.vps-host.net
 njs.jelastic.vps-host.net
 ric.jelastic.vps-host.net
+strw.app
 streak-link.com
 streaklinks.com
 streakusercontent.com
@@ -10421,6 +10441,7 @@ vps.hrsn.net
 localcert.net
 windsurf.app
 windsurf.build
+wirechunk.site
 drive-platform.com
 drive-platform.io
 panel.gg
