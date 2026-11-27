@@ -1,5 +1,5 @@
-// VERSION: 2026-11-25_16-42-05_UTC
-// COMMIT: b859dc136777a7efd40c38fbf27a673a45ee31cf
+// VERSION: 2026-11-26_18-39-01_UTC
+// COMMIT: 88b076a1fb2ae58cd2a6959d570f075e04d21867
 // ===BEGIN ICANN DOMAINS===
 ac
 com.ac
@@ -9318,7 +9318,6 @@ svn-repos.de
 leadpages.co
 lpages.co
 lpusercontent.com
-leapcell.app
 liara.run
 iran.liara.run
 libp2p.direct
@@ -9867,6 +9866,7 @@ gh.srv.us
 gl.srv.us
 mypep.link
 pplx.app
+phronusercontent.com
 forgeblocks.com
 id.forgerock.io
 support.site
@@ -9958,6 +9958,7 @@ instances.spawn.cc
 reliantlabs.dev
 sites.reliantlabs.dev
 reliantpreview.dev
+relumesite.ai
 onrender.com
 app.render.com
 replit.app
@@ -10191,6 +10192,7 @@ vp4.me
 streamlit.app
 streamlitapp.com
 try-snowplow.com
+softr.app
 mafelo.net
 sol.site
 solidres.page
@@ -10209,6 +10211,7 @@ nx.gw
 grok.me
 spawnbase.app
 customer.speedpartner.de
+spheron.live
 myspreadshop.at
 myspreadshop.com.au
 myspreadshop.be
@@ -10242,6 +10245,7 @@ sryze.cc
 indevs.in
 musician.io
 novecore.site
+staticrun.app
 statichost.page
 feedback.ac
 forms.ac
@@ -10469,6 +10473,9 @@ wpenginepowered.com
 js.wpenginepowered.com
 *.xenonconnect.de
 half.host
+xport.free
+xport.host
+xport.sh
 cistron.nl
 demon.nl
 xs4all.space
